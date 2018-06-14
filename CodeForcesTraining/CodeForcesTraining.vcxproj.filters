@@ -20,16 +20,33 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="486.A.div3.cpp">
-      <Filter>Source Files</Filter>
+    <None Include="486.A.div3.h">
+      <Filter>Header Files</Filter>
     </None>
-    <None Include="486.B.div3.cpp">
-      <Filter>Source Files</Filter>
+    <None Include="486.B.div3.h">
+      <Filter>Header Files</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="486.E.div3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="486.C.div3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="486.D.div3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="486.F.div3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="intput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
