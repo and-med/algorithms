@@ -52,6 +52,15 @@
     <ClInclude Include="489.B.div2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="485.C.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="485.C.div2.2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="485.D.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="intput.txt">

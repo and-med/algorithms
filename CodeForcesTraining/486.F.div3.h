@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 #include<vector>
+using namespace std;
 
 struct umbrella
 {
@@ -11,13 +12,14 @@ struct umbrella
 	umbrella(int pos, int w) : position(pos), weight(w) {}
 };
 
-void doTask(std::istream& in, std::ostream& out)
+void doTask(istream& in, ostream& out)
 {
 	int a, n, m;
 	in >> a >> n >> m;
-	std::vector<bool> isRain(a + 1, false);
-	std::vector<umbrella> umbrellas(m);
-	std::vector<umbrella> minUmbrellas(a + 1, umbrella(-1, INT_MAX));
+
+	vector<umbrella> umbrellas(m);
+	vector<pair<int, int>> minUmbrellas(a + 1, make_pair(INT_MAX, -1));
+	vector<bool> isRain(a);
 
 	for (int i = 0; i < n; ++i)
 	{
@@ -28,51 +30,37 @@ void doTask(std::istream& in, std::ostream& out)
 			isRain[j] = true;
 		}
 	}
-	for (int i = 0; i < m; ++i)
-	{
-		in >> umbrellas[i].position >> umbrellas[i].weight;
-	}
 
 	for (int i = 0; i < m; ++i)
 	{
-		minUmbrellas[umbrellas[i].position].weight = std::min(minUmbrellas[umbrellas[i].position].weight, umbrellas[i].weight);
-		minUmbrellas[umbrellas[i].position].position = umbrellas[i].position;
+		int x, p;
+		in >> x >> p;
+		umbrellas[i].position = x;
+		umbrellas[i].weight = p;
+
+		minUmbrellas[umbrellas[i].position].second = umbrellas[i].weight < minUmbrellas[umbrellas[i].position].first ? i : minUmbrellas[umbrellas[i].position].second;
+		minUmbrellas[umbrellas[i].position].first = min(minUmbrellas[umbrellas[i].position].first, umbrellas[i].weight);
 	}
 
-	std::vector<std::vector<int>> minFatigues(a + 1, std::vector<int>(m + 1, INT_MAX));
-	minFatigues[0][m] = 0;
+	vector<vector<int>> d(a + 1, vector<int>(m + 1, INT_MAX));
+	d[0][m] = 0;
 
 	for (int i = 0; i < a; ++i)
 	{
-		for (int j = 0; j < m + 1; ++j)
+		for (int j = 0; j <= m; ++j)
 		{
-			if (minFatigues[i][j] == INT_MAX) continue;
-			if (!isRain[i]) {
-				minFatigues[i + 1][j] = std::min(minFatigues[i + 1][m], minFatigues[i][j]);
-			}
-			if (j < m)
-			{
-				minFatigues[i + 1][j] = std::min(minFatigues[i + 1][j], minFatigues[i][j] + umbrellas[j].weight);
-			}
-			if (minUmbrellas[i].position != -1)
-			{
-				minFatigues[i + 1][minUmbrellas[i].position] = std::min(minFatigues[i + 1][minUmbrellas[i].position], minFatigues[i][j] + minUmbrellas[i].weight);
-			}
+			if (d[i][j] == INT_MAX) continue;
+			if (!isRain[i]) d[i + 1][m] = min(d[i + 1][m], d[i][j]);
+			if (j < m) d[i + 1][j] = min(d[i + 1][j], d[i][j] + umbrellas[j].weight);
+			if(minUmbrellas[i].second != -1) d[i + 1][minUmbrellas[i].second] = min(d[i + 1][minUmbrellas[i].second], d[i][j] + minUmbrellas[i].first);
 		}
 	}
 
-	int min = INT_MAX;
-	for (int i = 0; i < m + 1; ++i)
+	int minFatigue = INT_MAX;
+	for (int i = 0; i <= m; ++i)
 	{
-		min = std::min(min, minFatigues[a][i]);
+		minFatigue = min(minFatigue, d[a][i]);
 	}
-
-	if (min == INT_MAX)
-	{
-		out << -1 << std::endl;
-	}
-	else
-	{
-		out << min << std::endl;
-	}
+	if (minFatigue == INT_MAX) out << -1 << endl;
+	else out << minFatigue << endl;
 }
