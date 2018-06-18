@@ -40,6 +40,9 @@
     <ClInclude Include="486.F.div3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="487.A.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="intput.txt">
