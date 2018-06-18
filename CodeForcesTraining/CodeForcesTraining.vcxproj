@@ -134,6 +134,7 @@
     <ClInclude Include="487.B.div2.h" />
     <ClInclude Include="489.A.div2.h" />
     <ClInclude Include="489.B.div2.h" />
+    <ClInclude Include="489.C.div2.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="intput.txt" />

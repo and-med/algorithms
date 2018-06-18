@@ -1,7 +1,7 @@
 #ifdef LOCAL
 #include<fstream>
 #endif // LOCAL
-#include"489.B.div2.h"
+#include"489.C.div2.h"
 
 int main()
 {
