@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\490">
+      <UniqueIdentifier>{a379de55-be00-46e2-ae37-d97904f284fd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -63,6 +66,12 @@
     </ClInclude>
     <ClInclude Include="489.C.div2.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="489.D.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="490.A.div3.h">
+      <Filter>Header Files\490</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
