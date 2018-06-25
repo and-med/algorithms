@@ -16,6 +16,9 @@
     <Filter Include="Header Files\490">
       <UniqueIdentifier>{a379de55-be00-46e2-ae37-d97904f284fd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\492">
+      <UniqueIdentifier>{3a147ee3-a596-4433-8bc1-76e4cc226d40}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -72,6 +75,15 @@
     </ClInclude>
     <ClInclude Include="490.A.div3.h">
       <Filter>Header Files\490</Filter>
+    </ClInclude>
+    <ClInclude Include="489.E.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="492.A.div2.h">
+      <Filter>Header Files\492</Filter>
+    </ClInclude>
+    <ClInclude Include="492.B.div2.h">
+      <Filter>Header Files\492</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -1,6 +1,3 @@
-#ifdef LOCAL
-#include<fstream>
-#endif // LOCAL
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -25,16 +22,4 @@ void doTask(istream& in, ostream& out)
 	}
 
 	out << res + 1 << endl;
-}
-
-int main()
-{
-#ifdef LOCAL
-	std::ifstream in("intput.txt");
-	std::ofstream out("output.txt");
-	std::cout << "LOCAL ENVIRONMNET: using files" << std::endl;
-	doTask(in, out);
-#else
-	doTask(std::cin, std::cout);
-#endif // LOCAL
 }
