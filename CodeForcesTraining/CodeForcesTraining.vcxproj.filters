@@ -85,6 +85,12 @@
     <ClInclude Include="492.B.div2.h">
       <Filter>Header Files\492</Filter>
     </ClInclude>
+    <ClInclude Include="492.C.div2.h">
+      <Filter>Header Files\492</Filter>
+    </ClInclude>
+    <ClInclude Include="492.D.div2.h">
+      <Filter>Header Files\492</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="intput.txt">
