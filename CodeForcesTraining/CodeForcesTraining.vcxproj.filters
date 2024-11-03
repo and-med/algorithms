@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\490">
+      <UniqueIdentifier>{a379de55-be00-46e2-ae37-d97904f284fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\492">
+      <UniqueIdentifier>{3a147ee3-a596-4433-8bc1-76e4cc226d40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="486.A.div3.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="486.B.div3.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="486.E.div3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="486.C.div3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="486.D.div3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="486.F.div3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="487.A.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="487.B.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="489.A.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="489.B.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="485.C.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="485.C.div2.2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="485.D.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="489.C.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="489.D.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="490.A.div3.h">
+      <Filter>Header Files\490</Filter>
+    </ClInclude>
+    <ClInclude Include="489.E.div2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="492.A.div2.h">
+      <Filter>Header Files\492</Filter>
+    </ClInclude>
+    <ClInclude Include="492.B.div2.h">
+      <Filter>Header Files\492</Filter>
+    </ClInclude>
+    <ClInclude Include="492.C.div2.h">
+      <Filter>Header Files\492</Filter>
+    </ClInclude>
+    <ClInclude Include="492.D.div2.h">
+      <Filter>Header Files\492</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="intput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
