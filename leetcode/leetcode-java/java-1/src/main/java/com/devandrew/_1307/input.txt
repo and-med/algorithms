@@ -1,0 +1,16 @@
+["WE","ARE"]
+IT
+["A","B"]
+A
+["AA","BB"]
+AA
+["AB","CD","EF"]
+GHIJ
+["SEND","MORE"]
+MONEY
+["SIX","SEVEN","SEVEN"]
+TWENTY
+["LEET","CODE"]
+POINT
+["CBA","CBA","CBA","CBA","CBA"]
+EDD

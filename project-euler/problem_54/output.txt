@@ -1,0 +1,3917 @@
+______________________________Game:1
+Player 1: KC, TS, 9H, 8C, 4S Rank: High Card
+Player 2: AC, 7D, 5D, 3S, 2S Rank: High Card
+Player 2 wins
+______________________________Game:2
+Player 1: AD, AC, 9C, 5D, 5C Rank: Two Pairs
+Player 2: KS, TD, 8D, 7C, 5H Rank: High Card
+Player 1 wins
+______________________________Game:3
+Player 1: KC, JS, 7H, 6S, 3H Rank: High Card
+Player 2: QH, JC, TD, 8S, 2D Rank: High Card
+Player 1 wins
+______________________________Game:4
+Player 1: QS, TH, TC, 8H, 5C Rank: One Pair
+Player 2: KS, JS, JC, 9H, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:5
+Player 1: KC, QH, JD, 7C, 5H Rank: High Card
+Player 2: AS, AD, KH, 4S, 4C Rank: Two Pairs
+Player 2 wins
+______________________________Game:6
+Player 1: KS, 9H, 9C, 7D, 5H Rank: One Pair
+Player 2: AH, 8D, 5D, 5C, 3S Rank: One Pair
+Player 1 wins
+______________________________Game:7
+Player 1: 6H, 5C, 4H, 3H, 2H Rank: Straight
+Player 2: AS, QH, 6S, 5S, 3S Rank: High Card
+Player 1 wins
+______________________________Game:8
+Player 1: TD, TC, 8C, 7C, 4H Rank: One Pair
+Player 2: KS, KC, 7S, 4C, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:9
+Player 1: KD, 9C, 7C, 6D, 3H Rank: High Card
+Player 2: AC, KH, QS, QC, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:10
+Player 1: JC, 6S, 5H, 2H, 2D Rank: One Pair
+Player 2: AS, KD, JS, 9D, 7C Rank: High Card
+Player 1 wins
+______________________________Game:11
+Player 1: AD, QH, TH, 9D, 8H Rank: High Card
+Player 2: AS, AC, TS, 6D, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:12
+Player 1: TC, 5S, 5C, 4S, 2H Rank: One Pair
+Player 2: KC, JD, TS, 6C, 3C Rank: High Card
+Player 1 wins
+______________________________Game:13
+Player 1: AS, QD, JS, 6H, 2C Rank: High Card
+Player 2: KC, 9H, 8S, 4H, 3D Rank: High Card
+Player 1 wins
+______________________________Game:14
+Player 1: KD, 9S, 8S, 7C, 2S Rank: High Card
+Player 2: KC, 6S, 6D, 4H, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:15
+Player 1: 8C, 7D, 4D, 3C, 2D Rank: High Card
+Player 2: QH, JD, 9S, 4S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:16
+Player 1: KC, TC, 8C, 7S, 2D Rank: High Card
+Player 2: AC, QD, TS, 8H, 5C Rank: High Card
+Player 2 wins
+______________________________Game:17
+Player 1: KH, QD, 6S, 6C, 3D Rank: One Pair
+Player 2: AS, AD, QS, 8H, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:18
+Player 1: 8S, 8D, 6S, 6C, 4C Rank: Two Pairs
+Player 2: QH, TC, 9D, 7D, 6D Rank: High Card
+Player 1 wins
+______________________________Game:19
+Player 1: TS, 8D, 8C, 4C, 2S Rank: One Pair
+Player 2: AC, 9S, 9D, 9C, 3D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:20
+Player 1: QS, JH, 4H, 3C, 2S Rank: High Card
+Player 2: TD, 9H, 8S, 3D, 2D Rank: High Card
+Player 1 wins
+______________________________Game:21
+Player 1: QS, 8S, 6D, 5H, 3C Rank: High Card
+Player 2: AS, JD, 8C, 7H, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:22
+Player 1: AS, JH, TD, 9D, 6H Rank: High Card
+Player 2: KD, QC, JC, 9S, 6C Rank: High Card
+Player 1 wins
+______________________________Game:23
+Player 1: AH, QS, TH, 8S, 4D Rank: High Card
+Player 2: AC, TS, 5C, 3D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:24
+Player 1: JS, 8H, 5S, 4D, 3D Rank: High Card
+Player 2: AD, TS, 8C, 6C, 3S Rank: High Card
+Player 2 wins
+______________________________Game:25
+Player 1: 7C, 6D, 5H, 5D, 3S Rank: One Pair
+Player 2: JC, 5S, 5C, 3D, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:26
+Player 1: KS, 6H, 5H, 3D, 2S Rank: High Card
+Player 2: JS, JD, 8H, 7H, 5D Rank: One Pair
+Player 2 wins
+______________________________Game:27
+Player 1: AS, KH, QS, JS, 4H Rank: High Card
+Player 2: KS, QC, TC, 7C, 6D Rank: High Card
+Player 1 wins
+______________________________Game:28
+Player 1: QS, JS, TS, 3D, 2H Rank: High Card
+Player 2: AS, KD, JC, 9S, 4D Rank: High Card
+Player 2 wins
+______________________________Game:29
+Player 1: KH, QD, 5H, 5D, 4D Rank: One Pair
+Player 2: KD, JS, 7H, 4H, 3D Rank: High Card
+Player 1 wins
+______________________________Game:30
+Player 1: 9H, 9D, 6H, 5C, 2C Rank: One Pair
+Player 2: JC, TH, 9S, 6C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:31
+Player 1: AS, QD, JH, 7D, 6D Rank: High Card
+Player 2: QS, JS, 7C, 5C, 4D Rank: High Card
+Player 1 wins
+______________________________Game:32
+Player 1: AD, KH, QD, 8C, 3H Rank: High Card
+Player 2: TH, 9D, 8H, 5S, 3S Rank: High Card
+Player 1 wins
+______________________________Game:33
+Player 1: AH, 9S, 9D, 8S, 4D Rank: One Pair
+Player 2: JS, TC, 8D, 4H, 3C Rank: High Card
+Player 1 wins
+______________________________Game:34
+Player 1: KS, QD, 5H, 3S, 2C Rank: High Card
+Player 2: AH, AD, TS, 9H, 8S Rank: One Pair
+Player 2 wins
+______________________________Game:35
+Player 1: KD, 9H, 7H, 5D, 5C Rank: One Pair
+Player 2: AD, KS, 4D, 3D, 2D Rank: High Card
+Player 1 wins
+______________________________Game:36
+Player 1: KS, KC, 9S, 6D, 2C Rank: One Pair
+Player 2: QH, TS, TC, 9H, 9D Rank: Two Pairs
+Player 2 wins
+______________________________Game:37
+Player 1: QH, 9C, 6H, 5D, 4D Rank: High Card
+Player 2: AD, KH, QC, JS, 6D Rank: High Card
+Player 2 wins
+______________________________Game:38
+Player 1: JD, 9S, 9D, 5C, 3H Rank: One Pair
+Player 2: AS, QH, TC, 9H, 4D Rank: High Card
+Player 1 wins
+______________________________Game:39
+Player 1: JC, 9C, 6D, 3C, 2C Rank: High Card
+Player 2: AD, KH, 9S, 9D, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:40
+Player 1: KC, JS, JC, 9C, 7C Rank: One Pair
+Player 2: AS, KD, 7D, 3H, 3C Rank: One Pair
+Player 1 wins
+______________________________Game:41
+Player 1: KH, QS, QD, 3S, 2C Rank: One Pair
+Player 2: JC, 9H, 9C, 8S, 8H Rank: Two Pairs
+Player 2 wins
+______________________________Game:42
+Player 1: KC, QH, 8D, 4C, 3C Rank: High Card
+Player 2: AD, 9H, 9D, 6D, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:43
+Player 1: KS, KH, QS, 7H, 3S Rank: One Pair
+Player 2: AD, JD, 7D, 5H, 5D Rank: One Pair
+Player 1 wins
+______________________________Game:44
+Player 1: TH, TC, 6H, 2H, 2C Rank: Two Pairs
+Player 2: AS, 8D, 8C, 7D, 4H Rank: One Pair
+Player 1 wins
+______________________________Game:45
+Player 1: AC, QC, 4S, 3S, 2H Rank: High Card
+Player 2: KH, TH, 6D, 4D, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:46
+Player 1: AS, KS, TC, 7C, 4D Rank: High Card
+Player 2: 9H, 6D, 6C, 3C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:47
+Player 1: QS, TD, 8C, 5D, 2C Rank: High Card
+Player 2: 9H, 9C, 7H, 4C, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:48
+Player 1: JH, TS, TD, 7S, 5H Rank: One Pair
+Player 2: AD, QD, 8S, 8H, 6H Rank: One Pair
+Player 1 wins
+______________________________Game:49
+Player 1: AD, 9C, 8C, 7C, 5S Rank: High Card
+Player 2: 9D, 8S, 8D, 5H, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:50
+Player 1: KS, KH, 9S, 4H, 2S Rank: One Pair
+Player 2: AD, KC, 7D, 5S, 4S Rank: High Card
+Player 1 wins
+______________________________Game:51
+Player 1: QS, QD, JS, 9C, 6H Rank: One Pair
+Player 2: AS, AC, 8D, 5D, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:52
+Player 1: AC, KH, JC, 9D, 3S Rank: High Card
+Player 2: JS, 9S, 9C, 5S, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:53
+Player 1: AD, KS, 3S, 3D, 3C Rank: Three Of A Kind
+Player 2: TS, 9C, 8C, 5C, 4S Rank: High Card
+Player 1 wins
+______________________________Game:54
+Player 1: KD, JH, 8D, 6H, 5D Rank: High Card
+Player 2: KC, QS, QD, 6C, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:55
+Player 1: JD, 8S, 8C, 6C, 3S Rank: One Pair
+Player 2: QH, QC, JS, TC, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:56
+Player 1: KC, JC, 9H, 8H, 2S Rank: High Card
+Player 2: JH, 9S, 9C, 8S, 8C Rank: Two Pairs
+Player 2 wins
+______________________________Game:57
+Player 1: QH, QC, 8S, 4D, 2H Rank: One Pair
+Player 2: AS, KC, TH, 9D, 3C Rank: High Card
+Player 1 wins
+______________________________Game:58
+Player 1: TH, 8S, 7C, 6H, 2H Rank: High Card
+Player 2: AS, 7S, 6S, 3H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:59
+Player 1: QH, JS, 5S, 5H, 4H Rank: One Pair
+Player 2: AH, AC, JC, TS, 8H Rank: One Pair
+Player 2 wins
+______________________________Game:60
+Player 1: TC, 9D, 8H, 4S, 2S Rank: High Card
+Player 2: JC, 7H, 5C, 3H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:61
+Player 1: AD, 4C, 3S, 3D, 3C Rank: Three Of A Kind
+Player 2: AS, QC, TH, 8C, 5D Rank: High Card
+Player 1 wins
+______________________________Game:62
+Player 1: KH, JS, 9D, 6S, 4C Rank: High Card
+Player 2: AH, AD, JD, TS, 8H Rank: One Pair
+Player 2 wins
+______________________________Game:63
+Player 1: AC, 9D, 7S, 6S, 4C Rank: High Card
+Player 2: JD, TC, 4D, 3S, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:64
+Player 1: AD, JH, 7H, 6H, 4H Rank: High Card
+Player 2: KC, TS, TD, 7D, 6S Rank: One Pair
+Player 2 wins
+______________________________Game:65
+Player 1: JH, TC, 8H, 8D, 3S Rank: One Pair
+Player 2: 9S, 8C, 5C, 4D, 2C Rank: High Card
+Player 1 wins
+______________________________Game:66
+Player 1: KC, QH, TH, 9D, 2C Rank: High Card
+Player 2: QS, JC, TS, 9C, 4H Rank: High Card
+Player 1 wins
+______________________________Game:67
+Player 1: KH, QS, QD, 8H, 3C Rank: One Pair
+Player 2: AC, TD, 8S, 8D, 4H Rank: One Pair
+Player 1 wins
+______________________________Game:68
+Player 1: TH, 8H, 7C, 5S, 3C Rank: High Card
+Player 2: KD, JD, TC, 9C, 8C Rank: High Card
+Player 2 wins
+______________________________Game:69
+Player 1: QC, JD, TS, TC, 8C Rank: One Pair
+Player 2: KD, TD, 7C, 6H, 3H Rank: High Card
+Player 1 wins
+______________________________Game:70
+Player 1: KS, QS, JH, 9C, 6D Rank: High Card
+Player 2: AS, KH, 9H, 6S, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:71
+Player 1: AH, JH, 4D, 2H, 2D Rank: One Pair
+Player 2: JD, TD, 6H, 5D, 4H Rank: High Card
+Player 1 wins
+______________________________Game:72
+Player 1: KD, QD, JH, 9S, 8C Rank: High Card
+Player 2: QS, JS, 7C, 5C, 2C Rank: High Card
+Player 1 wins
+______________________________Game:73
+Player 1: TC, 8D, 7H, 4S, 2S Rank: High Card
+Player 2: KC, 9C, 7S, 7C, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:74
+Player 1: TD, 8C, 7H, 5D, 4S Rank: High Card
+Player 2: KS, QC, JS, 8S, 4H Rank: High Card
+Player 2 wins
+______________________________Game:75
+Player 1: AD, JH, TD, 8S, 6D Rank: High Card
+Player 2: KD, 7D, 7C, 6C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:76
+Player 1: JS, JC, 6S, 6H, 4H Rank: Two Pairs
+Player 2: AH, QH, 9H, 4C, 3C Rank: High Card
+Player 1 wins
+______________________________Game:77
+Player 1: AS, 7S, 7C, 6H, 5H Rank: One Pair
+Player 2: KH, KC, 5D, 5C, 3D Rank: Two Pairs
+Player 2 wins
+______________________________Game:78
+Player 1: AS, JC, TD, 4D, 3D Rank: High Card
+Player 2: KS, QH, JD, 6S, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:79
+Player 1: QH, 8S, 8C, 7S, 2S Rank: One Pair
+Player 2: AH, QD, JD, 7H, 5C Rank: High Card
+Player 1 wins
+______________________________Game:80
+Player 1: 8S, 6H, 6C, 3C, 2C Rank: One Pair
+Player 2: TD, 8D, 7D, 4D, 4C Rank: One Pair
+Player 1 wins
+______________________________Game:81
+Player 1: KH, QH, 7C, 5D, 2S Rank: High Card
+Player 2: QD, QC, JS, 7H, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:82
+Player 1: AD, TH, 7D, 6S, 6C Rank: One Pair
+Player 2: KH, 8H, 6H, 4H, 2H Rank: Flush
+Player 2 wins
+______________________________Game:83
+Player 1: KS, KD, JS, 5D, 2D Rank: One Pair
+Player 2: KH, 9C, 8C, 7D, 3D Rank: High Card
+Player 1 wins
+______________________________Game:84
+Player 1: KS, QD, 9C, 6D, 3C Rank: High Card
+Player 2: AH, JD, 7S, 3S, 2D Rank: High Card
+Player 2 wins
+______________________________Game:85
+Player 1: AS, AH, QH, JC, 8S Rank: One Pair
+Player 2: KC, TH, 8H, 7D, 4C Rank: High Card
+Player 1 wins
+______________________________Game:86
+Player 1: JC, TD, 7C, 5H, 5D Rank: One Pair
+Player 2: AD, KD, JS, 8H, 4C Rank: High Card
+Player 1 wins
+______________________________Game:87
+Player 1: AH, AC, KC, 7D, 2H Rank: One Pair
+Player 2: KH, JH, 7S, 6D, 5D Rank: High Card
+Player 1 wins
+______________________________Game:88
+Player 1: 9S, 9C, 8S, 6H, 5S Rank: One Pair
+Player 2: AC, JD, TD, 9H, 6C Rank: High Card
+Player 1 wins
+______________________________Game:89
+Player 1: KD, TS, 8S, 7D, 6D Rank: High Card
+Player 2: AC, 7H, 7C, 5S, 5D Rank: Two Pairs
+Player 2 wins
+______________________________Game:90
+Player 1: AH, QC, JC, TC, 4C Rank: High Card
+Player 2: TS, 8C, 7D, 2H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:91
+Player 1: KD, KC, 7D, 6S, 3D Rank: One Pair
+Player 2: 8S, 5S, 5C, 3H, 2S Rank: One Pair
+Player 1 wins
+______________________________Game:92
+Player 1: 8S, 8H, 6H, 5D, 4C Rank: One Pair
+Player 2: KD, KC, 7C, 5S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:93
+Player 1: JH, 8C, 6C, 3D, 3C Rank: One Pair
+Player 2: KC, TD, 7H, 7C, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:94
+Player 1: KC, QS, JC, TS, 6H Rank: High Card
+Player 2: KS, TD, 9S, 8H, 8C Rank: One Pair
+Player 2 wins
+______________________________Game:95
+Player 1: QH, 9C, 7D, 6C, 5S Rank: High Card
+Player 2: AH, KS, KC, 9S, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:96
+Player 1: TD, 9C, 8H, 4S, 4D Rank: One Pair
+Player 2: AS, TH, 9D, 7D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:97
+Player 1: 7D, 6S, 6H, 5D, 3C Rank: One Pair
+Player 2: KD, 9D, 9C, 5C, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:98
+Player 1: AD, KC, 3H, 3D, 2H Rank: One Pair
+Player 2: QS, QD, JC, 8D, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:99
+Player 1: AD, 9C, 8C, 7C, 3H Rank: High Card
+Player 2: AS, JS, JC, 9D, 5D Rank: One Pair
+Player 2 wins
+______________________________Game:100
+Player 1: 9H, 7H, 6S, 5D, 5C Rank: One Pair
+Player 2: QD, QC, JC, 9S, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:101
+Player 1: QS, JH, JC, 6S, 2C Rank: One Pair
+Player 2: QC, TC, 9C, 4S, 3D Rank: High Card
+Player 1 wins
+______________________________Game:102
+Player 1: 8D, 5S, 4H, 4D, 3D Rank: One Pair
+Player 2: KC, JS, 2S, 2H, 2C Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:103
+Player 1: KD, TH, TD, 4D, 3S Rank: One Pair
+Player 2: AC, KS, JS, JH, 7H Rank: One Pair
+Player 2 wins
+______________________________Game:104
+Player 1: 9S, 8S, 8C, 7S, 2D Rank: One Pair
+Player 2: AS, AD, 9D, 7D, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:105
+Player 1: TH, 8C, 7H, 6C, 2S Rank: High Card
+Player 2: AC, 8H, 4C, 3S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:106
+Player 1: KD, JD, JC, 8H, 5H Rank: One Pair
+Player 2: JH, TD, 5C, 4H, 2D Rank: High Card
+Player 1 wins
+______________________________Game:107
+Player 1: AS, KS, QH, 7H, 3D Rank: High Card
+Player 2: JD, 8S, 6D, 5S, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:108
+Player 1: QS, JC, TC, 9S, 6S Rank: High Card
+Player 2: TH, 9C, 8C, 5D, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:109
+Player 1: JH, 9H, 5H, 3S, 2S Rank: High Card
+Player 2: AS, KS, 7S, 6S, 2C Rank: High Card
+Player 2 wins
+______________________________Game:110
+Player 1: QS, QD, JC, TC, 8C Rank: One Pair
+Player 2: AC, KH, QC, 6C, 4H Rank: High Card
+Player 1 wins
+______________________________Game:111
+Player 1: JH, TC, 7D, 5H, 4H Rank: High Card
+Player 2: KS, JC, 8D, 4D, 2H Rank: High Card
+Player 2 wins
+______________________________Game:112
+Player 1: KH, KD, 9H, 9C, 5S Rank: Two Pairs
+Player 2: TS, 7D, 5C, 3D, 2D Rank: High Card
+Player 1 wins
+______________________________Game:113
+Player 1: AS, TC, 8C, 5H, 4D Rank: High Card
+Player 2: TS, 9D, 8D, 3H, 2C Rank: High Card
+Player 1 wins
+______________________________Game:114
+Player 1: JD, 9H, 8D, 6H, 2D Rank: High Card
+Player 2: 6D, 6C, 5S, 5H, 4S Rank: Two Pairs
+Player 2 wins
+______________________________Game:115
+Player 1: AD, JC, 9C, 7D, 6H Rank: High Card
+Player 2: JS, 9S, 9H, 6D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:116
+Player 1: AD, QS, JH, TC, 4C Rank: High Card
+Player 2: AH, 9S, 9C, 7C, 5D Rank: One Pair
+Player 2 wins
+______________________________Game:117
+Player 1: KD, TH, 8S, 6H, 2H Rank: High Card
+Player 2: AS, KS, QD, 9H, 9D Rank: One Pair
+Player 2 wins
+______________________________Game:118
+Player 1: 8H, 8D, 6C, 5H, 4H Rank: One Pair
+Player 2: AS, AH, AD, 8S, 5S Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:119
+Player 1: QS, TD, 5D, 4S, 2H Rank: High Card
+Player 2: AC, KS, JC, 5H, 3H Rank: High Card
+Player 2 wins
+______________________________Game:120
+Player 1: AC, KD, QD, 9C, 7D Rank: High Card
+Player 2: QH, 6H, 6D, 5S, 5H Rank: Two Pairs
+Player 2 wins
+______________________________Game:121
+Player 1: AH, KC, QH, 7D, 2H Rank: High Card
+Player 2: KS, QS, JD, 7S, 3H Rank: High Card
+Player 1 wins
+______________________________Game:122
+Player 1: KS, 8S, 6D, 6C, 3H Rank: One Pair
+Player 2: QD, TC, 8H, 5D, 5C Rank: One Pair
+Player 1 wins
+______________________________Game:123
+Player 1: 9H, 9D, 6S, 4S, 4D Rank: Two Pairs
+Player 2: KH, QC, JD, 6C, 4H Rank: High Card
+Player 1 wins
+______________________________Game:124
+Player 1: QH, TD, 6H, 4S, 2D Rank: High Card
+Player 2: KD, QD, JH, 8C, 3C Rank: High Card
+Player 2 wins
+______________________________Game:125
+Player 1: QD, 9D, 7C, 6H, 4S Rank: High Card
+Player 2: AS, AH, AD, 6S, 3C Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:126
+Player 1: KC, TH, 8D, 6H, 2C Rank: High Card
+Player 2: AH, 8S, 6D, 5D, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:127
+Player 1: AD, JC, TS, TD, 7C Rank: One Pair
+Player 2: KC, QD, 9H, 7H, 3C Rank: High Card
+Player 1 wins
+______________________________Game:128
+Player 1: 8H, 5S, 5D, 4H, 4D Rank: Two Pairs
+Player 2: KD, JD, 7D, 3H, 2D Rank: High Card
+Player 1 wins
+______________________________Game:129
+Player 1: QS, JH, TD, 6H, 4S Rank: High Card
+Player 2: KD, 8S, 8H, 7D, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:130
+Player 1: AS, AC, TD, 8C, 3D Rank: One Pair
+Player 2: KH, JD, 7H, 6C, 5D Rank: High Card
+Player 1 wins
+______________________________Game:131
+Player 1: KS, QH, 9D, 7C, 6D Rank: High Card
+Player 2: AS, KD, KC, JD, TC Rank: One Pair
+Player 2 wins
+______________________________Game:132
+Player 1: JH, 8S, 7S, 7D, 5S Rank: One Pair
+Player 2: AS, AD, 3D, 2H, 2D Rank: Two Pairs
+Player 2 wins
+______________________________Game:133
+Player 1: AS, QD, 5D, 3C, 2H Rank: High Card
+Player 2: KC, 9S, 9H, 6H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:134
+Player 1: JH, TH, 9D, 5D, 4C Rank: High Card
+Player 2: TC, 9H, 8H, 8D, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:135
+Player 1: KD, TD, 6H, 2H, 2C Rank: One Pair
+Player 2: JS, 9D, 8C, 6C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:136
+Player 1: AS, KD, 7S, 7C, 3C Rank: One Pair
+Player 2: AD, QH, TS, 8C, 2S Rank: High Card
+Player 1 wins
+______________________________Game:137
+Player 1: QS, JS, 8H, 6C, 4C Rank: High Card
+Player 2: AD, QC, TS, TD, 9S Rank: One Pair
+Player 2 wins
+______________________________Game:138
+Player 1: TS, TC, 8C, 7C, 2H Rank: One Pair
+Player 2: JC, 9H, 6D, 3C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:139
+Player 1: KS, JH, TC, 8D, 2H Rank: High Card
+Player 2: TH, TD, 8H, 6D, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:140
+Player 1: QC, TD, 9H, 9D, 5D Rank: One Pair
+Player 2: KC, TS, 8H, 8C, 6C Rank: One Pair
+Player 1 wins
+______________________________Game:141
+Player 1: AH, 8C, 4D, 3D, 2H Rank: High Card
+Player 2: KC, TH, TC, 8H, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:142
+Player 1: TS, 8C, 6S, 5C, 2D Rank: High Card
+Player 2: AH, KH, KC, 6H, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:143
+Player 1: AH, TC, 5S, 5D, 4C Rank: One Pair
+Player 2: JD, 8D, 8C, 6H, 6C Rank: Two Pairs
+Player 2 wins
+______________________________Game:144
+Player 1: KC, QD, 8H, 3D, 2D Rank: High Card
+Player 2: AD, JC, 9H, 4H, 2S Rank: High Card
+Player 2 wins
+______________________________Game:145
+Player 1: KD, JS, TD, 7D, 6S Rank: High Card
+Player 2: QS, 8C, 4H, 3S, 2S Rank: High Card
+Player 1 wins
+______________________________Game:146
+Player 1: JH, TS, 9H, 4C, 3S Rank: High Card
+Player 2: QC, 9S, 9C, 5S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:147
+Player 1: KD, JS, 9S, 9H, 2C Rank: One Pair
+Player 2: AC, JC, TS, 5D, 3H Rank: High Card
+Player 1 wins
+______________________________Game:148
+Player 1: AS, AD, 5H, 5D, 2H Rank: Two Pairs
+Player 2: JS, JC, TD, 7S, 4C Rank: One Pair
+Player 1 wins
+______________________________Game:149
+Player 1: 8H, 7D, 4S, 3D, 2D Rank: High Card
+Player 2: AD, KD, TS, 9C, 2C Rank: High Card
+Player 2 wins
+______________________________Game:150
+Player 1: QD, JS, JH, 7H, 5H Rank: One Pair
+Player 2: AC, TH, 8H, 4C, 3D Rank: High Card
+Player 1 wins
+______________________________Game:151
+Player 1: KH, KC, QD, 6D, 5C Rank: One Pair
+Player 2: AD, AC, 7C, 4H, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:152
+Player 1: QD, TC, 9D, 8S, 3D Rank: High Card
+Player 2: AH, JD, JC, 4H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:153
+Player 1: TD, TC, 8S, 6C, 5S Rank: One Pair
+Player 2: AS, AH, AC, 5D, 2C Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:154
+Player 1: AS, TH, 7S, 6C, 3D Rank: High Card
+Player 2: AH, 7H, 7D, 4H, 4C Rank: Two Pairs
+Player 2 wins
+______________________________Game:155
+Player 1: KS, 7S, 6H, 5C, 2H Rank: High Card
+Player 2: 7H, 5H, 4H, 3D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:156
+Player 1: AC, QH, 9S, 7S, 3C Rank: High Card
+Player 2: 6S, 3S, 3H, 3D, 2H Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:157
+Player 1: AS, 6H, 3H, 2D, 2C Rank: One Pair
+Player 2: JS, TC, 9C, 6S, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:158
+Player 1: AC, KD, QH, QD, 6D Rank: One Pair
+Player 2: KH, TS, 8C, 6H, 2C Rank: High Card
+Player 1 wins
+______________________________Game:159
+Player 1: 9H, 8H, 7D, 5D, 3S Rank: High Card
+Player 2: QC, 9S, 5H, 4S, 3H Rank: High Card
+Player 2 wins
+______________________________Game:160
+Player 1: 9D, 7H, 6H, 3C, 2D Rank: High Card
+Player 2: 8S, 5H, 4S, 4D, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:161
+Player 1: KD, TC, 9S, 7S, 4S Rank: High Card
+Player 2: QC, 8S, 7H, 3S, 2H Rank: High Card
+Player 1 wins
+______________________________Game:162
+Player 1: TC, 8C, 6C, 3H, 3D Rank: One Pair
+Player 2: KS, KD, 6H, 4D, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:163
+Player 1: KC, JS, 9S, 3H, 3D Rank: One Pair
+Player 2: 8S, 8H, 6C, 4S, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:164
+Player 1: QS, QD, TC, 6H, 6C Rank: Two Pairs
+Player 2: 9H, 7D, 7C, 5H, 4D Rank: One Pair
+Player 1 wins
+______________________________Game:165
+Player 1: TD, 9D, 8D, 6S, 6C Rank: One Pair
+Player 2: JS, TS, TC, 8H, 5D Rank: One Pair
+Player 2 wins
+______________________________Game:166
+Player 1: KC, JD, TC, 9H, 4H Rank: High Card
+Player 2: AS, 8H, 6S, 5H, 2C Rank: High Card
+Player 2 wins
+______________________________Game:167
+Player 1: JS, 9D, 9C, 6S, 5C Rank: One Pair
+Player 2: KC, JD, 8H, 6D, 4C Rank: High Card
+Player 1 wins
+______________________________Game:168
+Player 1: 8S, 8D, 7C, 6C, 4D Rank: One Pair
+Player 2: KC, 8H, 7H, 6H, 5C Rank: High Card
+Player 1 wins
+______________________________Game:169
+Player 1: KS, JC, TC, 6D, 3D Rank: High Card
+Player 2: 9S, 9C, 7S, 6H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:170
+Player 1: KD, TS, 6C, 5H, 3S Rank: High Card
+Player 2: KH, 9S, 9H, 7D, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:171
+Player 1: QD, TS, 6H, 4C, 3D Rank: High Card
+Player 2: AC, KD, 5C, 3S, 2H Rank: High Card
+Player 2 wins
+______________________________Game:172
+Player 1: AS, JS, 9S, 7C, 4C Rank: High Card
+Player 2: KS, JC, TS, 9H, 7H Rank: High Card
+Player 1 wins
+______________________________Game:173
+Player 1: JD, 8C, 6H, 4H, 3H Rank: High Card
+Player 2: AD, KS, 9S, 5S, 4S Rank: High Card
+Player 2 wins
+______________________________Game:174
+Player 1: AS, 7D, 4C, 3D, 2C Rank: High Card
+Player 2: KC, QS, 9C, 6C, 2S Rank: High Card
+Player 1 wins
+______________________________Game:175
+Player 1: AC, 8S, 5H, 3D, 2S Rank: High Card
+Player 2: TD, 9D, 6S, 4D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:176
+Player 1: QD, TS, TH, 7S, 3D Rank: One Pair
+Player 2: AC, QC, 7H, 6C, 5D Rank: High Card
+Player 1 wins
+______________________________Game:177
+Player 1: AD, QS, QD, TC, 9C Rank: One Pair
+Player 2: KD, 8D, 5C, 3D, 3C Rank: One Pair
+Player 1 wins
+______________________________Game:178
+Player 1: AS, 9D, 8H, 7C, 3S Rank: High Card
+Player 2: KC, JD, 8S, 8D, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:179
+Player 1: AC, QH, JS, TH, 4C Rank: High Card
+Player 2: KH, 9C, 8D, 7S, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:180
+Player 1: JH, 9D, 8D, 4C, 2C Rank: High Card
+Player 2: KD, QD, TS, 4H, 2S Rank: High Card
+Player 2 wins
+______________________________Game:181
+Player 1: JH, 6D, 5D, 4D, 2D Rank: High Card
+Player 2: KH, TC, 8S, 3S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:182
+Player 1: AD, QS, 8C, 4D, 2C Rank: High Card
+Player 2: AH, KD, JH, JD, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:183
+Player 1: JH, 6C, 5H, 5C, 2H Rank: One Pair
+Player 2: KS, TC, 7C, 4H, 3H Rank: High Card
+Player 1 wins
+______________________________Game:184
+Player 1: QC, JH, 5D, 4C, 3C Rank: High Card
+Player 2: KH, QD, TC, 9C, 8D Rank: High Card
+Player 2 wins
+______________________________Game:185
+Player 1: QH, JS, 9C, 7H, 3H Rank: High Card
+Player 2: AS, JC, 9H, 7C, 5H Rank: High Card
+Player 2 wins
+______________________________Game:186
+Player 1: QD, 5S, 4S, 3C, 2D Rank: High Card
+Player 2: KC, 6S, 6C, 5C, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:187
+Player 1: KH, TS, 8S, 5D, 2D Rank: High Card
+Player 2: AS, 9S, 9C, 7C, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:188
+Player 1: AH, 8D, 8C, 7C, 5S Rank: One Pair
+Player 2: KD, QS, QH, JH, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:189
+Player 1: AH, AC, 9D, 8C, 2H Rank: One Pair
+Player 2: QC, 8H, 7H, 5S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:190
+Player 1: QS, QD, QC, 9H, 5S Rank: Three Of A Kind
+Player 2: JC, TH, 9C, 5H, 4H Rank: High Card
+Player 1 wins
+______________________________Game:191
+Player 1: 6S, 6C, 5H, 3S, 3H Rank: Two Pairs
+Player 2: AC, KS, 8D, 7S, 6H Rank: High Card
+Player 1 wins
+______________________________Game:192
+Player 1: AC, QH, 8C, 7H, 4S Rank: High Card
+Player 2: KC, TC, 6C, 3S, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:193
+Player 1: AC, JS, TH, 9D, 3D Rank: High Card
+Player 2: TC, 8S, 5H, 3S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:194
+Player 1: KS, KH, QD, JS, 9S Rank: One Pair
+Player 2: AH, AC, QC, 8D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:195
+Player 1: KH, 9S, 6C, 5H, 3S Rank: High Card
+Player 2: AS, QD, JH, 8C, 2D Rank: High Card
+Player 2 wins
+______________________________Game:196
+Player 1: 7S, 7H, 6C, 5S, 4D Rank: One Pair
+Player 2: JH, JC, 9H, 6S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:197
+Player 1: AH, AD, 9S, 6H, 5S Rank: One Pair
+Player 2: TH, 9D, 8C, 3S, 2H Rank: High Card
+Player 1 wins
+______________________________Game:198
+Player 1: QC, 9H, 8D, 7C, 4C Rank: High Card
+Player 2: AD, KC, 9C, 5S, 4S Rank: High Card
+Player 2 wins
+______________________________Game:199
+Player 1: TC, 9D, 6H, 4D, 4C Rank: One Pair
+Player 2: AS, JH, 5D, 3S, 2S Rank: High Card
+Player 1 wins
+______________________________Game:200
+Player 1: KH, 7C, 6C, 5C, 2H Rank: High Card
+Player 2: AD, QS, JD, TH, 8S Rank: High Card
+Player 2 wins
+______________________________Game:201
+Player 1: AS, AH, 7S, 4S, 3S Rank: One Pair
+Player 2: AD, KC, JS, TH, 2S Rank: High Card
+Player 1 wins
+______________________________Game:202
+Player 1: KC, JS, 8C, 7D, 2S Rank: High Card
+Player 2: TS, 9D, 9C, 5H, 5C Rank: Two Pairs
+Player 2 wins
+______________________________Game:203
+Player 1: JH, TD, 9S, 7S, 4D Rank: High Card
+Player 2: KH, JS, 6H, 5D, 2C Rank: High Card
+Player 2 wins
+______________________________Game:204
+Player 1: JS, JD, JC, TH, 2D Rank: Three Of A Kind
+Player 2: AC, QD, 8C, 5H, 3D Rank: High Card
+Player 1 wins
+______________________________Game:205
+Player 1: KH, 9D, 7S, 5S, 5D Rank: One Pair
+Player 2: TD, 6H, 4S, 3C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:206
+Player 1: AC, 8D, 5D, 4S, 4D Rank: One Pair
+Player 2: AS, AH, AD, 9C, 7C Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:207
+Player 1: KS, TS, TH, 6S, 2C Rank: One Pair
+Player 2: AS, AH, QC, 4S, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:208
+Player 1: JC, 8C, 5C, 3S, 2H Rank: High Card
+Player 2: KH, JH, 7C, 3H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:209
+Player 1: JC, 7S, 6H, 5S, 3H Rank: High Card
+Player 2: KC, 7H, 4D, 4C, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:210
+Player 1: 9S, 8S, 7C, 4H, 4D Rank: One Pair
+Player 2: AD, JC, TC, 6S, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:211
+Player 1: KH, QS, TC, 4C, 3S Rank: High Card
+Player 2: AC, TS, 8S, 8H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:212
+Player 1: QS, QD, TS, TH, 3C Rank: Two Pairs
+Player 2: AH, JC, TD, 7H, 7D Rank: One Pair
+Player 1 wins
+______________________________Game:213
+Player 1: QC, JD, TD, 9S, 4D Rank: High Card
+Player 2: AD, AC, TS, 7S, 7D Rank: Two Pairs
+Player 2 wins
+______________________________Game:214
+Player 1: AH, 7H, 7C, 6D, 4S Rank: One Pair
+Player 2: KS, JC, TD, 9D, 2H Rank: High Card
+Player 1 wins
+______________________________Game:215
+Player 1: AH, JD, 7C, 6D, 4H Rank: High Card
+Player 2: QS, TS, 5C, 2H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:216
+Player 1: KC, TC, 9S, 8C, 4C Rank: High Card
+Player 2: AH, JS, JC, 6S, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:217
+Player 1: AS, QC, 7D, 5S, 3D Rank: High Card
+Player 2: KH, JD, JC, TD, 9D Rank: One Pair
+Player 2 wins
+______________________________Game:218
+Player 1: AH, TH, 6H, 3C, 2S Rank: High Card
+Player 2: AC, 8H, 7S, 5H, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:219
+Player 1: AC, QD, QC, 2S, 2D Rank: Two Pairs
+Player 2: QS, JD, 8H, 6S, 3S Rank: High Card
+Player 1 wins
+______________________________Game:220
+Player 1: KC, JS, 9D, 4H, 3C Rank: High Card
+Player 2: AS, 8S, 8C, 6H, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:221
+Player 1: KC, JD, 7H, 7D, 2H Rank: One Pair
+Player 2: QS, QH, JC, 5S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:222
+Player 1: TD, 9H, 8H, 7S, 3S Rank: High Card
+Player 2: AH, AC, 7C, 6C, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:223
+Player 1: AH, JD, TD, 9H, 8D Rank: High Card
+Player 2: QS, 9C, 8S, 7D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:224
+Player 1: AH, KC, QH, JD, 3C Rank: High Card
+Player 2: KS, TD, 5S, 5D, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:225
+Player 1: JH, TH, 9H, 7H, 6S Rank: High Card
+Player 2: AD, 7C, 5C, 4C, 2D Rank: High Card
+Player 2 wins
+______________________________Game:226
+Player 1: KD, TC, 9D, 7C, 5S Rank: High Card
+Player 2: TH, 6S, 6C, 5D, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:227
+Player 1: KC, 9H, 8D, 7H, 5H Rank: High Card
+Player 2: AS, QC, 7C, 4H, 3D Rank: High Card
+Player 2 wins
+______________________________Game:228
+Player 1: QC, TD, 8S, 6S, 4S Rank: High Card
+Player 2: QS, QD, TH, 5C, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:229
+Player 1: QC, TH, 9H, 8S, 5H Rank: High Card
+Player 2: KC, 7D, 7C, 6S, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:230
+Player 1: AH, KH, KD, 7H, 4D Rank: One Pair
+Player 2: KC, QH, 5C, 4S, 2D Rank: High Card
+Player 1 wins
+______________________________Game:231
+Player 1: AS, JC, TD, 6S, 2C Rank: High Card
+Player 2: 8C, 6C, 5S, 4H, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:232
+Player 1: JD, JC, TC, 6S, 5S Rank: One Pair
+Player 2: AS, AD, 9D, 8D, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:233
+Player 1: TC, 6H, 6D, 5S, 5D Rank: Two Pairs
+Player 2: QS, QD, 9D, 7D, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:234
+Player 1: 8S, 7S, 6C, 4S, 3S Rank: High Card
+Player 2: AD, KS, 7D, 7C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:235
+Player 1: AC, KC, QH, QD, JC Rank: One Pair
+Player 2: QS, 8D, 7H, 7D, 5D Rank: One Pair
+Player 1 wins
+______________________________Game:236
+Player 1: AH, JS, 8S, 5H, 3D Rank: High Card
+Player 2: JH, TD, 6C, 4S, 3H Rank: High Card
+Player 1 wins
+______________________________Game:237
+Player 1: AS, QS, 9H, 7D, 4S Rank: High Card
+Player 2: KS, JS, TC, 6D, 5C Rank: High Card
+Player 1 wins
+______________________________Game:238
+Player 1: TC, 6H, 5C, 4D, 2D Rank: High Card
+Player 2: QH, 9H, 8S, 6C, 3D Rank: High Card
+Player 2 wins
+______________________________Game:239
+Player 1: TH, TC, 7H, 6D, 5S Rank: One Pair
+Player 2: KS, KD, JD, 9C, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:240
+Player 1: QH, TD, 8D, 6S, 4S Rank: High Card
+Player 2: KC, TC, 8S, 6C, 5C Rank: High Card
+Player 2 wins
+______________________________Game:241
+Player 1: AC, KS, 5S, 4S, 3D Rank: High Card
+Player 2: QD, TH, 7D, 4C, 2S Rank: High Card
+Player 1 wins
+______________________________Game:242
+Player 1: TS, 9S, 8H, 7S, 6S Rank: Straight
+Player 2: AH, QH, 8C, 7H, 3C Rank: High Card
+Player 1 wins
+______________________________Game:243
+Player 1: QC, JS, TS, 8C, 4C Rank: High Card
+Player 2: JH, 7S, 7D, 5D, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:244
+Player 1: AC, QC, 9D, 8S, 7S Rank: High Card
+Player 2: KC, JH, 7C, 6D, 2H Rank: High Card
+Player 1 wins
+______________________________Game:245
+Player 1: KD, JS, 6S, 4S, 3C Rank: High Card
+Player 2: AH, KS, QC, 7C, 5H Rank: High Card
+Player 2 wins
+______________________________Game:246
+Player 1: KS, QS, JD, 6S, 4H Rank: High Card
+Player 2: AS, KC, TC, 8H, 6H Rank: High Card
+Player 2 wins
+______________________________Game:247
+Player 1: KH, TD, TC, 7C, 6S Rank: One Pair
+Player 2: AH, JC, 7D, 5C, 3S Rank: High Card
+Player 1 wins
+______________________________Game:248
+Player 1: TH, TC, 4H, 4C, 3H Rank: Two Pairs
+Player 2: QH, 9C, 7H, 6S, 6D Rank: One Pair
+Player 1 wins
+______________________________Game:249
+Player 1: JS, 8C, 7D, 5H, 4S Rank: High Card
+Player 2: KC, QH, 8S, 4D, 3D Rank: High Card
+Player 2 wins
+______________________________Game:250
+Player 1: AD, 7H, 6S, 3S, 3H Rank: One Pair
+Player 2: QC, JS, 8S, 7S, 4S Rank: High Card
+Player 1 wins
+______________________________Game:251
+Player 1: KH, JD, TH, 6H, 3S Rank: High Card
+Player 2: QS, QD, 9C, 6C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:252
+Player 1: KC, QH, 5H, 4S, 4D Rank: One Pair
+Player 2: TH, 8D, 7D, 6D, 5S Rank: High Card
+Player 1 wins
+______________________________Game:253
+Player 1: AD, KD, TD, 7H, 6S Rank: High Card
+Player 2: KH, KC, JC, 9H, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:254
+Player 1: AS, QC, TS, 4S, 3H Rank: High Card
+Player 2: KS, KC, QD, 9C, 7S Rank: One Pair
+Player 2 wins
+______________________________Game:255
+Player 1: QC, TS, TH, 6S, 6C Rank: Two Pairs
+Player 2: KD, TC, 9D, 5D, 5C Rank: One Pair
+Player 1 wins
+______________________________Game:256
+Player 1: KD, JS, 4H, 4C, 3S Rank: One Pair
+Player 2: QD, JC, 9S, 9D, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:257
+Player 1: JS, JH, 8S, 6D, 4H Rank: One Pair
+Player 2: KS, KH, 6S, 6H, 6C Rank: Full House
+Player 2 wins
+______________________________Game:258
+Player 1: AC, TC, 9S, 7D, 5D Rank: High Card
+Player 2: AS, KH, QD, 6S, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:259
+Player 1: AS, QH, 8D, 7H, 6D Rank: High Card
+Player 2: KH, TH, 5H, 5C, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:260
+Player 1: QC, TC, 7C, 4C, 3D Rank: High Card
+Player 2: KH, JS, 8C, 4S, 2D Rank: High Card
+Player 2 wins
+______________________________Game:261
+Player 1: 9C, 7S, 6H, 5H, 5D Rank: One Pair
+Player 2: JH, TH, 9H, 8S, 7H Rank: Straight
+Player 2 wins
+______________________________Game:262
+Player 1: AS, KH, QD, JS, 2S Rank: High Card
+Player 2: AC, 8S, 8H, 8D, 4S Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:263
+Player 1: KD, TD, 8C, 4C, 3H Rank: High Card
+Player 2: QS, JD, JC, 5C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:264
+Player 1: TS, 7D, 6C, 5D, 2C Rank: High Card
+Player 2: AH, KS, QS, 3C, 2H Rank: High Card
+Player 2 wins
+______________________________Game:265
+Player 1: JH, 9C, 7D, 7C, 4S Rank: One Pair
+Player 2: QD, 9D, 8H, 6C, 5C Rank: High Card
+Player 1 wins
+______________________________Game:266
+Player 1: TD, 9C, 7S, 6D, 2S Rank: High Card
+Player 2: KH, QS, QH, 9S, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:267
+Player 1: QH, JH, JC, 9C, 6S Rank: One Pair
+Player 2: KH, JS, 8D, 7S, 2H Rank: High Card
+Player 1 wins
+______________________________Game:268
+Player 1: KC, TH, 8D, 5H, 4D Rank: High Card
+Player 2: QS, 6S, 4S, 3S, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:269
+Player 1: JD, TD, 7C, 4C, 2D Rank: High Card
+Player 2: AH, JC, TH, 7S, 6D Rank: High Card
+Player 2 wins
+______________________________Game:270
+Player 1: QS, TH, 9D, 7S, 4C Rank: High Card
+Player 2: AD, TS, 6H, 4D, 3H Rank: High Card
+Player 2 wins
+______________________________Game:271
+Player 1: JD, 7D, 3H, 3D, 2D Rank: One Pair
+Player 2: AS, QC, 9C, 8S, 2S Rank: High Card
+Player 1 wins
+______________________________Game:272
+Player 1: 9H, 9C, 7S, 4H, 2C Rank: One Pair
+Player 2: KD, JH, 6H, 5D, 5C Rank: One Pair
+Player 1 wins
+______________________________Game:273
+Player 1: JC, TC, 9H, 8H, 3C Rank: High Card
+Player 2: AD, KS, KC, 9S, 8D Rank: One Pair
+Player 2 wins
+______________________________Game:274
+Player 1: QS, QH, JD, TS, 5H Rank: One Pair
+Player 2: AH, KH, QC, 8D, 5D Rank: High Card
+Player 1 wins
+______________________________Game:275
+Player 1: AS, 8S, 6S, 5D, 4C Rank: High Card
+Player 2: AH, QD, QC, TH, 7H Rank: One Pair
+Player 2 wins
+______________________________Game:276
+Player 1: 7D, 6S, 4S, 4H, 3H Rank: One Pair
+Player 2: AS, JS, 9H, 9D, 8H Rank: One Pair
+Player 2 wins
+______________________________Game:277
+Player 1: JD, 9D, 8C, 7D, 2C Rank: High Card
+Player 2: KD, JC, 9S, 5S, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:278
+Player 1: AH, KD, QD, 9C, 4S Rank: High Card
+Player 2: AD, AC, TD, 9D, 7C Rank: One Pair
+Player 2 wins
+______________________________Game:279
+Player 1: 9C, 8D, 6S, 4S, 4H Rank: One Pair
+Player 2: KS, JH, TC, 9D, 7C Rank: High Card
+Player 1 wins
+______________________________Game:280
+Player 1: QH, JC, 5S, 5H, 4S Rank: One Pair
+Player 2: AC, JS, 9S, 2S, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:281
+Player 1: AS, AD, QD, 8C, 5H Rank: One Pair
+Player 2: QC, TD, 8S, 7D, 5C Rank: High Card
+Player 1 wins
+______________________________Game:282
+Player 1: KH, JC, 8D, 5C, 4C Rank: High Card
+Player 2: QS, 6H, 4D, 2H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:283
+Player 1: KC, TH, 4S, 3H, 2D Rank: High Card
+Player 2: AD, AC, QD, 9D, 7H Rank: One Pair
+Player 2 wins
+______________________________Game:284
+Player 1: AS, KH, QD, TH, 8H Rank: High Card
+Player 2: KC, QH, 8D, 8C, 7S Rank: One Pair
+Player 2 wins
+______________________________Game:285
+Player 1: KH, JC, 8C, 7D, 6C Rank: High Card
+Player 2: AD, QS, 6S, 2H, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:286
+Player 1: KH, JS, JC, 7D, 2D Rank: One Pair
+Player 2: AD, QC, 5H, 5D, 4C Rank: One Pair
+Player 1 wins
+______________________________Game:287
+Player 1: AD, TS, TD, 4S, 3S Rank: One Pair
+Player 2: JH, TH, 9H, 6S, 2D Rank: High Card
+Player 1 wins
+______________________________Game:288
+Player 1: QS, 9H, 4S, 2D, 2C Rank: One Pair
+Player 2: AS, AC, KH, 9D, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:289
+Player 1: KH, KD, 8H, 6S, 4S Rank: One Pair
+Player 2: QD, QC, TS, 9D, 7D Rank: One Pair
+Player 1 wins
+______________________________Game:290
+Player 1: AS, AH, KS, JH, 5H Rank: One Pair
+Player 2: AD, KH, QC, JC, 5S Rank: High Card
+Player 1 wins
+______________________________Game:291
+Player 1: KS, KD, 7D, 6D, 5D Rank: One Pair
+Player 2: JD, 7C, 4D, 3S, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:292
+Player 1: AC, JS, 9C, 8D, 5H Rank: High Card
+Player 2: TS, 4H, 4D, 3H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:293
+Player 1: KS, KH, 9D, 7C, 6H Rank: One Pair
+Player 2: 8S, 6S, 3D, 2S, 2H Rank: One Pair
+Player 1 wins
+______________________________Game:294
+Player 1: AC, JS, 7S, 6H, 3S Rank: High Card
+Player 2: TH, TD, 8H, 4H, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:295
+Player 1: KC, QC, TC, 9H, 5C Rank: High Card
+Player 2: AC, KS, 8S, 6H, 4H Rank: High Card
+Player 2 wins
+______________________________Game:296
+Player 1: QH, JC, TC, 7D, 4S Rank: High Card
+Player 2: AC, KH, TS, 6D, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:297
+Player 1: QS, QH, JH, 7D, 7C Rank: Two Pairs
+Player 2: KS, QD, TH, 5D, 3H Rank: High Card
+Player 1 wins
+______________________________Game:298
+Player 1: JS, 8D, 5S, 4C, 3D Rank: High Card
+Player 2: KS, 9C, 7H, 4H, 2C Rank: High Card
+Player 2 wins
+______________________________Game:299
+Player 1: TD, 8S, 5H, 4H, 2C Rank: High Card
+Player 2: KC, QD, QC, 3S, 3H Rank: Two Pairs
+Player 2 wins
+______________________________Game:300
+Player 1: AD, KD, QC, JS, 9C Rank: High Card
+Player 2: TS, 9D, 7H, 7D, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:301
+Player 1: KH, JC, 8C, 7S, 7C Rank: One Pair
+Player 2: QD, TS, TH, 6C, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:302
+Player 1: TH, 9D, 7S, 5S, 3C Rank: High Card
+Player 2: QH, 9C, 8S, 5H, 2H Rank: High Card
+Player 2 wins
+______________________________Game:303
+Player 1: JS, 9H, 6H, 5D, 2S Rank: High Card
+Player 2: KH, 7C, 5S, 3H, 2H Rank: High Card
+Player 2 wins
+______________________________Game:304
+Player 1: JD, TC, 5S, 5D, 2C Rank: One Pair
+Player 2: 8S, 6S, 6C, 3C, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:305
+Player 1: KH, 8H, 4H, 4D, 2D Rank: One Pair
+Player 2: KS, 9H, 5C, 3H, 2S Rank: High Card
+Player 1 wins
+______________________________Game:306
+Player 1: TD, 8S, 7H, 3S, 2D Rank: High Card
+Player 2: KC, JD, 9C, 8D, 6H Rank: High Card
+Player 2 wins
+______________________________Game:307
+Player 1: QD, JH, 9H, 7C, 6S Rank: High Card
+Player 2: TH, TD, 8S, 8H, 5H Rank: Two Pairs
+Player 2 wins
+______________________________Game:308
+Player 1: QS, TS, TD, 7S, 7D Rank: Two Pairs
+Player 2: KD, JC, 7C, 3C, 2C Rank: High Card
+Player 1 wins
+______________________________Game:309
+Player 1: JD, 8S, 4H, 3C, 2D Rank: High Card
+Player 2: AS, AC, TD, 4D, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:310
+Player 1: AH, KS, 6C, 4S, 4C Rank: One Pair
+Player 2: AS, 9H, 8C, 7D, 6H Rank: High Card
+Player 1 wins
+______________________________Game:311
+Player 1: QS, 9S, 5S, 3C, 2C Rank: High Card
+Player 2: AC, KD, 5D, 4S, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:312
+Player 1: KH, JS, TS, 2D, 2C Rank: One Pair
+Player 2: AS, KC, QH, 8C, 5D Rank: High Card
+Player 1 wins
+______________________________Game:313
+Player 1: KD, TH, 8S, 6C, 3H Rank: High Card
+Player 2: AC, KH, 9S, 7S, 6H Rank: High Card
+Player 2 wins
+______________________________Game:314
+Player 1: AH, QS, 7S, 6H, 6C Rank: One Pair
+Player 2: 5H, 5D, 4H, 2S, 2H Rank: Two Pairs
+Player 2 wins
+______________________________Game:315
+Player 1: QD, JC, 5H, 2S, 2C Rank: One Pair
+Player 2: AS, QC, JD, 7D, 6S Rank: High Card
+Player 1 wins
+______________________________Game:316
+Player 1: AS, KD, TC, 8H, 6C Rank: High Card
+Player 2: JH, 9S, 9D, 7D, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:317
+Player 1: AH, 8S, 6C, 4C, 2H Rank: High Card
+Player 2: TS, TH, TD, 7C, 3H Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:318
+Player 1: KD, QH, TS, 6C, 4S Rank: High Card
+Player 2: AH, 9D, 9C, 8D, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:319
+Player 1: QD, QC, JS, 6D, 5C Rank: One Pair
+Player 2: KD, 9C, 8C, 5D, 2H Rank: High Card
+Player 1 wins
+______________________________Game:320
+Player 1: AD, QH, JH, 6S, 3C Rank: High Card
+Player 2: AH, KC, 8S, 6H, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:321
+Player 1: 7S, 7C, 5S, 4C, 3D Rank: One Pair
+Player 2: JC, 6S, 5H, 3S, 3C Rank: One Pair
+Player 1 wins
+______________________________Game:322
+Player 1: QH, 7C, 5H, 3S, 3C Rank: One Pair
+Player 2: KD, TS, 9C, 8C, 4C Rank: High Card
+Player 1 wins
+______________________________Game:323
+Player 1: QD, 7S, 7H, 5H, 3S Rank: One Pair
+Player 2: KD, QH, JC, 8C, 7C Rank: High Card
+Player 1 wins
+______________________________Game:324
+Player 1: KH, KD, 4C, 3C, 2S Rank: One Pair
+Player 2: AC, TS, 7C, 6S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:325
+Player 1: KH, 6H, 4C, 3C, 2C Rank: High Card
+Player 2: QD, 7S, 5S, 5H, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:326
+Player 1: QD, TS, 8S, 7C, 4D Rank: High Card
+Player 2: KS, KD, 9D, 6H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:327
+Player 1: QS, TS, 7S, 4D, 4C Rank: One Pair
+Player 2: QD, TC, 9S, 8D, 3H Rank: High Card
+Player 1 wins
+______________________________Game:328
+Player 1: AC, QH, TS, 6S, 3C Rank: High Card
+Player 2: QS, 9H, 9D, 8S, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:329
+Player 1: JS, 7S, 5D, 4S, 3S Rank: High Card
+Player 2: QH, TH, 6S, 6C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:330
+Player 1: AS, JS, 5D, 4H, 4C Rank: One Pair
+Player 2: AC, TS, 9C, 8S, 3D Rank: High Card
+Player 1 wins
+______________________________Game:331
+Player 1: 9C, 7C, 6S, 5C, 3S Rank: High Card
+Player 2: AS, AD, QS, 6H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:332
+Player 1: 9S, 8C, 7H, 6S, 3H Rank: High Card
+Player 2: AS, KH, JD, 9H, 7C Rank: High Card
+Player 2 wins
+______________________________Game:333
+Player 1: 7S, 6C, 4D, 3H, 3D Rank: One Pair
+Player 2: AC, TH, 9C, 7C, 2H Rank: High Card
+Player 1 wins
+______________________________Game:334
+Player 1: AC, TC, 5S, 4H, 3H Rank: High Card
+Player 2: TH, 9S, 9H, 9C, 8D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:335
+Player 1: 9H, 8D, 6C, 5H, 4D Rank: High Card
+Player 2: QD, 6S, 5D, 3S, 2H Rank: High Card
+Player 2 wins
+______________________________Game:336
+Player 1: QS, JD, 5C, 4D, 4C Rank: One Pair
+Player 2: AC, QH, TH, 8C, 3H Rank: High Card
+Player 1 wins
+______________________________Game:337
+Player 1: AD, QC, 7H, 5S, 3C Rank: High Card
+Player 2: KS, JD, 6D, 4H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:338
+Player 1: AH, KS, QS, 9H, 3H Rank: High Card
+Player 2: JS, JH, 5H, 2S, 2H Rank: Two Pairs
+Player 2 wins
+______________________________Game:339
+Player 1: TS, TH, 6S, 5S, 2H Rank: One Pair
+Player 2: KS, JS, 5H, 3S, 3C Rank: One Pair
+Player 1 wins
+______________________________Game:340
+Player 1: KC, 9S, 7H, 3D, 2D Rank: High Card
+Player 2: JS, JH, TD, 7D, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:341
+Player 1: AC, JS, 8H, 8C, 2C Rank: One Pair
+Player 2: JH, JC, TH, 7S, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:342
+Player 1: 9S, 8H, 5D, 3D, 2H Rank: High Card
+Player 2: AH, KD, JC, TC, 9C Rank: High Card
+Player 2 wins
+______________________________Game:343
+Player 1: QD, JC, 9D, 6D, 2H Rank: High Card
+Player 2: KH, QH, TS, TH, 9S Rank: One Pair
+Player 2 wins
+______________________________Game:344
+Player 1: JD, 8D, 5H, 4S, 2C Rank: High Card
+Player 2: KC, TH, TC, 9C, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:345
+Player 1: AS, 9H, 7D, 4D, 3D Rank: High Card
+Player 2: KH, TH, 7S, 3H, 2H Rank: High Card
+Player 1 wins
+______________________________Game:346
+Player 1: KS, JS, 7S, 4H, 2S Rank: High Card
+Player 2: QD, TS, 8S, 8D, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:347
+Player 1: KS, JH, 8H, 6H, 5S Rank: High Card
+Player 2: AC, QC, 6S, 3S, 2S Rank: High Card
+Player 2 wins
+______________________________Game:348
+Player 1: AS, AD, QS, JC, 8H Rank: One Pair
+Player 2: KH, QD, 6C, 4D, 4C Rank: One Pair
+Player 1 wins
+______________________________Game:349
+Player 1: TS, TD, 9S, 3D, 2S Rank: One Pair
+Player 2: KS, QS, 8D, 6S, 5C Rank: High Card
+Player 1 wins
+______________________________Game:350
+Player 1: KC, QC, 6D, 4S, 3C Rank: High Card
+Player 2: AD, KH, QD, JH, TH Rank: Straight
+Player 2 wins
+______________________________Game:351
+Player 1: AH, KS, 9H, 4D, 2S Rank: High Card
+Player 2: QS, JH, JC, 8D, 7C Rank: One Pair
+Player 2 wins
+______________________________Game:352
+Player 1: TH, 8H, 6C, 3C, 2D Rank: High Card
+Player 2: KS, QH, QD, 3S, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:353
+Player 1: TS, 9S, 6H, 5D, 4C Rank: High Card
+Player 2: QD, JS, JD, TD, 9D Rank: One Pair
+Player 2 wins
+______________________________Game:354
+Player 1: KS, KH, 8S, 8H, 5H Rank: Two Pairs
+Player 2: AD, KD, TD, 7C, 4S Rank: High Card
+Player 1 wins
+______________________________Game:355
+Player 1: AS, JC, 7C, 5S, 2C Rank: High Card
+Player 2: 9C, 8S, 7D, 6C, 5H Rank: Straight
+Player 2 wins
+______________________________Game:356
+Player 1: KH, QD, TS, 9S, 6S Rank: High Card
+Player 2: KC, QS, QH, 5S, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:357
+Player 1: KD, 7D, 5C, 3H, 3C Rank: One Pair
+Player 2: AS, JH, JD, 7H, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:358
+Player 1: KC, 9H, 9D, 8H, 5C Rank: One Pair
+Player 2: AD, KS, 4S, 4D, 2S Rank: One Pair
+Player 1 wins
+______________________________Game:359
+Player 1: QD, JD, 8D, 3S, 2S Rank: High Card
+Player 2: TS, 7C, 6S, 5S, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:360
+Player 1: KC, TD, 9S, 6D, 3S Rank: High Card
+Player 2: QD, JD, 8D, 6H, 5C Rank: High Card
+Player 1 wins
+______________________________Game:361
+Player 1: KD, TS, 9D, 8D, 5H Rank: High Card
+Player 2: QC, TD, 7D, 6H, 4C Rank: High Card
+Player 1 wins
+______________________________Game:362
+Player 1: AH, JD, 9D, 6D, 4S Rank: High Card
+Player 2: AS, QD, TD, 9S, 9H Rank: One Pair
+Player 2 wins
+______________________________Game:363
+Player 1: 9C, 6H, 5S, 2H, 2D Rank: One Pair
+Player 2: QC, TD, TC, 9S, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:364
+Player 1: KS, TS, 3S, 2H, 2C Rank: One Pair
+Player 2: JS, 9D, 9C, 8S, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:365
+Player 1: KC, 6D, 6C, 5D, 3C Rank: One Pair
+Player 2: AS, QS, 8S, 7S, 6H Rank: High Card
+Player 1 wins
+______________________________Game:366
+Player 1: JH, 9S, 8D, 4C, 2H Rank: High Card
+Player 2: AD, KH, TH, 9H, 8H Rank: High Card
+Player 2 wins
+______________________________Game:367
+Player 1: AS, QC, JS, 5C, 2S Rank: High Card
+Player 2: KD, 7H, 6H, 3H, 2C Rank: High Card
+Player 1 wins
+______________________________Game:368
+Player 1: QD, 8H, 8D, 3S, 2S Rank: One Pair
+Player 2: AH, TC, 6D, 5C, 2C Rank: High Card
+Player 1 wins
+______________________________Game:369
+Player 1: JS, JD, TS, 8S, 3H Rank: One Pair
+Player 2: KC, JC, TD, 6H, 5D Rank: High Card
+Player 1 wins
+______________________________Game:370
+Player 1: QS, TC, 6S, 5D, 3H Rank: High Card
+Player 2: AH, JC, 7D, 7C, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:371
+Player 1: 9C, 8H, 7C, 5D, 2H Rank: High Card
+Player 2: KH, JH, 9H, 5S, 2C Rank: High Card
+Player 2 wins
+______________________________Game:372
+Player 1: TH, 9C, 7H, 6S, 3S Rank: High Card
+Player 2: AC, QD, QC, JD, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:373
+Player 1: KC, 9S, 7D, 5D, 2H Rank: High Card
+Player 2: AS, KH, QS, 3S, 2D Rank: High Card
+Player 2 wins
+______________________________Game:374
+Player 1: 7D, 5C, 4S, 2S, 2H Rank: One Pair
+Player 2: QH, TH, TD, 9S, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:375
+Player 1: TS, 6H, 6D, 4H, 3S Rank: One Pair
+Player 2: KS, 9D, 8H, 5S, 2D Rank: High Card
+Player 1 wins
+______________________________Game:376
+Player 1: KS, 9H, 5C, 4H, 3S Rank: High Card
+Player 2: KH, JS, 6S, 6H, 5D Rank: One Pair
+Player 2 wins
+______________________________Game:377
+Player 1: AS, KC, JC, 8C, 4C Rank: High Card
+Player 2: AH, KH, QD, QC, TH Rank: One Pair
+Player 2 wins
+______________________________Game:378
+Player 1: KH, 9S, 6S, 5H, 2C Rank: High Card
+Player 2: JC, TC, 7H, 4D, 3C Rank: High Card
+Player 1 wins
+______________________________Game:379
+Player 1: JD, 8D, 6S, 5S, 4S Rank: High Card
+Player 2: 7S, 7H, 4D, 4C, 2H Rank: Two Pairs
+Player 2 wins
+______________________________Game:380
+Player 1: KH, 9H, 9C, 7H, 5D Rank: One Pair
+Player 2: TS, TC, 7S, 7C, 5H Rank: Two Pairs
+Player 2 wins
+______________________________Game:381
+Player 1: QC, TS, 8D, 4S, 4C Rank: One Pair
+Player 2: AD, JS, 9H, 7C, 3D Rank: High Card
+Player 1 wins
+______________________________Game:382
+Player 1: QS, 8C, 5D, 5C, 3H Rank: One Pair
+Player 2: AH, KC, JS, 9D, 4S Rank: High Card
+Player 1 wins
+______________________________Game:383
+Player 1: QS, JD, TS, TH, 8S Rank: One Pair
+Player 2: KH, QD, JS, JH, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:384
+Player 1: QC, JD, 9H, 6S, 5D Rank: High Card
+Player 2: TS, 9S, 8H, 3S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:385
+Player 1: AD, JC, 7H, 4C, 2S Rank: High Card
+Player 2: 6D, 5C, 4H, 3D, 2D Rank: Straight
+Player 2 wins
+______________________________Game:386
+Player 1: JS, 8C, 7S, 4H, 2C Rank: High Card
+Player 2: AD, QD, TD, 9C, 3S Rank: High Card
+Player 2 wins
+______________________________Game:387
+Player 1: JD, TS, 9H, 6H, 4C Rank: High Card
+Player 2: AS, QD, 7D, 6D, 3C Rank: High Card
+Player 2 wins
+______________________________Game:388
+Player 1: AS, 7C, 6S, 5D, 4C Rank: High Card
+Player 2: QC, JS, 5S, 5C, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:389
+Player 1: KD, 9S, 7C, 6S, 3C Rank: High Card
+Player 2: QD, JS, JH, 7D, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:390
+Player 1: JH, 8S, 7S, 4S, 2C Rank: High Card
+Player 2: AD, QH, 7H, 5D, 3D Rank: High Card
+Player 2 wins
+______________________________Game:391
+Player 1: TD, 8D, 6H, 4H, 2H Rank: High Card
+Player 2: AD, KH, 7C, 5D, 2D Rank: High Card
+Player 2 wins
+______________________________Game:392
+Player 1: QD, TS, 5H, 3S, 2C Rank: High Card
+Player 2: AH, KH, TD, 5C, 2S Rank: High Card
+Player 2 wins
+______________________________Game:393
+Player 1: AS, KC, 8C, 5D, 4D Rank: High Card
+Player 2: 9H, 7C, 6C, 2S, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:394
+Player 1: KD, QS, QC, JS, TS Rank: One Pair
+Player 2: AD, KH, JH, 5D, 2C Rank: High Card
+Player 1 wins
+______________________________Game:395
+Player 1: KC, 9H, 6C, 5H, 3S Rank: High Card
+Player 2: AD, 7S, 7D, 3H, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:396
+Player 1: KD, JS, JH, 8S, 7S Rank: One Pair
+Player 2: 9H, 7D, 7C, 2S, 2H Rank: Two Pairs
+Player 2 wins
+______________________________Game:397
+Player 1: QC, 9H, 8D, 6S, 2D Rank: High Card
+Player 2: AS, AD, 8H, 6C, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:398
+Player 1: 7H, 7D, 6D, 6C, 2S Rank: Two Pairs
+Player 2: JC, 9D, 8C, 5D, 3C Rank: High Card
+Player 1 wins
+______________________________Game:399
+Player 1: JD, 9C, 7H, 7C, 2H Rank: One Pair
+Player 2: AD, KH, KD, 4S, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:400
+Player 1: AS, QH, JD, 9H, 4D Rank: High Card
+Player 2: KS, KH, KD, TS, 5H Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:401
+Player 1: 8H, 5S, 4C, 3S, 3D Rank: One Pair
+Player 2: AD, KC, TD, 7S, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:402
+Player 1: JS, JC, 8S, 8H, 5S Rank: Two Pairs
+Player 2: KC, TH, 9C, 5D, 4D Rank: High Card
+Player 1 wins
+______________________________Game:403
+Player 1: QD, 9C, 7C, 5S, 2C Rank: High Card
+Player 2: KH, QH, JS, 8D, 5H Rank: High Card
+Player 2 wins
+______________________________Game:404
+Player 1: AD, KS, TD, 3D, 2S Rank: High Card
+Player 2: KC, TC, 7S, 5D, 3C Rank: High Card
+Player 1 wins
+______________________________Game:405
+Player 1: AD, QS, 6C, 4C, 2S Rank: High Card
+Player 2: QH, QD, TH, 9S, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:406
+Player 1: AD, QS, 8C, 2S, 2D Rank: One Pair
+Player 2: KS, KC, JD, JC, 6C Rank: Two Pairs
+Player 2 wins
+______________________________Game:407
+Player 1: JS, 8D, 5D, 4D, 2H Rank: High Card
+Player 2: QH, QD, TS, 7S, 7D Rank: Two Pairs
+Player 2 wins
+______________________________Game:408
+Player 1: 8S, 8C, 7H, 6S, 3S Rank: One Pair
+Player 2: QS, 9S, 9D, 8H, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:409
+Player 1: QD, TC, 5C, 4S, 2S Rank: High Card
+Player 2: QS, TH, 6S, 6D, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:410
+Player 1: 9D, 8D, 6H, 5C, 3S Rank: High Card
+Player 2: TD, TC, 7D, 7C, 4C Rank: Two Pairs
+Player 2 wins
+______________________________Game:411
+Player 1: AS, AH, 7H, 6S, 5S Rank: One Pair
+Player 2: AC, KD, 5H, 4C, 3H Rank: High Card
+Player 1 wins
+______________________________Game:412
+Player 1: AH, KS, QS, 8S, 8D Rank: One Pair
+Player 2: AD, 7D, 6H, 5D, 2C Rank: High Card
+Player 1 wins
+______________________________Game:413
+Player 1: QS, 9S, 9H, 6H, 2H Rank: One Pair
+Player 2: KD, 9C, 8S, 5D, 2D Rank: High Card
+Player 1 wins
+______________________________Game:414
+Player 1: QC, JH, TS, 7D, 5S Rank: High Card
+Player 2: AC, TH, 9S, 9H, 7S Rank: One Pair
+Player 2 wins
+______________________________Game:415
+Player 1: KC, 7H, 6S, 4D, 3H Rank: High Card
+Player 2: QD, TS, 6D, 5C, 4S Rank: High Card
+Player 1 wins
+______________________________Game:416
+Player 1: QD, TD, 7C, 3H, 2S Rank: High Card
+Player 2: JH, 9D, 7S, 7H, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:417
+Player 1: KS, TC, 5H, 4H, 3D Rank: High Card
+Player 2: AS, 7D, 6D, 2S, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:418
+Player 1: TD, 8H, 7H, 3H, 3C Rank: One Pair
+Player 2: AD, KH, KC, TH, 9C Rank: One Pair
+Player 2 wins
+______________________________Game:419
+Player 1: TC, 9S, 9D, 4C, 2C Rank: One Pair
+Player 2: JD, 9C, 5C, 3C, 2H Rank: High Card
+Player 1 wins
+______________________________Game:420
+Player 1: AD, AC, TS, 5D, 3H Rank: One Pair
+Player 2: QC, 8D, 8C, 6S, 6H Rank: Two Pairs
+Player 2 wins
+______________________________Game:421
+Player 1: JD, TS, 7H, 3S, 2S Rank: High Card
+Player 2: QH, 8S, 8D, 5S, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:422
+Player 1: AC, KH, 6C, 4S, 3C Rank: High Card
+Player 2: 8S, 7C, 3D, 2H, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:423
+Player 1: TH, 8S, 6C, 4H, 2H Rank: High Card
+Player 2: 9S, 8H, 7S, 4S, 3H Rank: High Card
+Player 1 wins
+______________________________Game:424
+Player 1: 9C, 7C, 5C, 4C, 2C Rank: Flush
+Player 2: AS, KD, QH, 5D, 4D Rank: High Card
+Player 1 wins
+______________________________Game:425
+Player 1: AS, TS, 9H, 7D, 4H Rank: High Card
+Player 2: 9S, 8D, 8C, 5D, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:426
+Player 1: AD, AC, KD, QC, 2H Rank: One Pair
+Player 2: AS, 9S, 7S, 3S, 2D Rank: High Card
+Player 1 wins
+______________________________Game:427
+Player 1: QC, TC, 8H, 6D, 2H Rank: High Card
+Player 2: KH, QS, QD, 5D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:428
+Player 1: QS, JD, TH, 4C, 2S Rank: High Card
+Player 2: AS, AD, 7H, 5S, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:429
+Player 1: JS, 7H, 6C, 3S, 3D Rank: One Pair
+Player 2: AS, AC, QS, 9S, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:430
+Player 1: AS, TS, TC, 9C, 8C Rank: One Pair
+Player 2: 9D, 8S, 8D, 6H, 6C Rank: Two Pairs
+Player 2 wins
+______________________________Game:431
+Player 1: KC, JD, 9C, 7C, 4D Rank: High Card
+Player 2: AS, KS, 8C, 6D, 3S Rank: High Card
+Player 2 wins
+______________________________Game:432
+Player 1: TS, TC, 8D, 6S, 3H Rank: One Pair
+Player 2: AS, KC, 9S, 7C, 3S Rank: High Card
+Player 1 wins
+______________________________Game:433
+Player 1: QC, 8S, 8C, 4S, 4H Rank: Two Pairs
+Player 2: AH, AC, TC, 6C, 3S Rank: One Pair
+Player 1 wins
+______________________________Game:434
+Player 1: AS, 7D, 5C, 4D, 2H Rank: High Card
+Player 2: AD, QC, TS, TC, 6S Rank: One Pair
+Player 2 wins
+______________________________Game:435
+Player 1: QD, QC, TH, 8S, 4S Rank: One Pair
+Player 2: AH, JH, TS, 4H, 3D Rank: High Card
+Player 1 wins
+______________________________Game:436
+Player 1: 9S, 5C, 3H, 2D, 2C Rank: One Pair
+Player 2: QH, QD, 9D, 7D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:437
+Player 1: KD, KC, 9H, 7S, 6C Rank: One Pair
+Player 2: AS, TC, 4D, 3C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:438
+Player 1: KS, JS, 9D, 4D, 3D Rank: High Card
+Player 2: QC, TH, 7D, 3H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:439
+Player 1: 9D, 8D, 5S, 3H, 2H Rank: High Card
+Player 2: TH, 8C, 4H, 4C, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:440
+Player 1: JD, JC, TH, 6S, 4S Rank: One Pair
+Player 2: 6C, 4D, 4C, 3D, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:441
+Player 1: AC, TS, 4H, 3S, 2D Rank: High Card
+Player 2: JH, 6S, 6H, 2H, 2C Rank: Two Pairs
+Player 2 wins
+______________________________Game:442
+Player 1: AH, AD, TD, TC, 8S Rank: Two Pairs
+Player 2: AC, JH, 9S, 7S, 6S Rank: High Card
+Player 1 wins
+______________________________Game:443
+Player 1: KC, JD, 8D, 6C, 4S Rank: High Card
+Player 2: AH, QH, 9H, 7H, 5S Rank: High Card
+Player 2 wins
+______________________________Game:444
+Player 1: KD, JH, TS, 8D, 5C Rank: High Card
+Player 2: AS, AD, JS, 5H, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:445
+Player 1: 8C, 6C, 4H, 3D, 2D Rank: High Card
+Player 2: AD, 8S, 7S, 5D, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:446
+Player 1: TD, 9C, 7S, 5D, 4S Rank: High Card
+Player 2: 8S, 8C, 6C, 5H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:447
+Player 1: AS, QH, JS, 9C, 5C Rank: High Card
+Player 2: QS, QC, JC, 7C, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:448
+Player 1: KH, QS, JH, JC, 9C Rank: One Pair
+Player 2: AD, QC, TS, 3D, 2C Rank: High Card
+Player 1 wins
+______________________________Game:449
+Player 1: AC, JH, 9S, 5D, 5C Rank: One Pair
+Player 2: KS, JD, TS, 8C, 4C Rank: High Card
+Player 1 wins
+______________________________Game:450
+Player 1: AS, KH, KC, 9H, 2D Rank: One Pair
+Player 2: 6H, 5S, 4D, 3D, 2C Rank: Straight
+Player 2 wins
+______________________________Game:451
+Player 1: AH, JC, TH, 8S, 2D Rank: High Card
+Player 2: QH, 8C, 7S, 3S, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:452
+Player 1: AS, QD, JC, 8H, 4H Rank: High Card
+Player 2: KS, KH, 9S, 6D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:453
+Player 1: QH, 9S, 9C, 7D, 4S Rank: One Pair
+Player 2: AC, KH, KD, 7H, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:454
+Player 1: AH, AD, TH, 9C, 6D Rank: One Pair
+Player 2: KS, KD, QH, 9S, 4H Rank: One Pair
+Player 1 wins
+______________________________Game:455
+Player 1: QS, QD, 9C, 7C, 6H Rank: One Pair
+Player 2: JH, 9D, 6S, 6D, 5S Rank: One Pair
+Player 1 wins
+______________________________Game:456
+Player 1: AH, QD, 8D, 5H, 2H Rank: High Card
+Player 2: KS, KH, JC, 5S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:457
+Player 1: JS, 9C, 8D, 5C, 2S Rank: High Card
+Player 2: AS, AH, KC, 8C, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:458
+Player 1: QS, JD, 9S, 8H, 2H Rank: High Card
+Player 2: TH, 8C, 5S, 5C, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:459
+Player 1: QS, QC, 8C, 2S, 2C Rank: Two Pairs
+Player 2: KS, KH, 9C, 4C, 3S Rank: One Pair
+Player 1 wins
+______________________________Game:460
+Player 1: AH, AD, 8S, 5D, 2D Rank: One Pair
+Player 2: KS, JS, TD, 8C, 2C Rank: High Card
+Player 1 wins
+______________________________Game:461
+Player 1: QC, TC, 8H, 5S, 5H Rank: One Pair
+Player 2: JD, 9S, 9H, 6H, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:462
+Player 1: AH, JH, 9H, 4H, 3C Rank: High Card
+Player 2: AC, 8D, 4S, 4C, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:463
+Player 1: TH, 8S, 7D, 6D, 4D Rank: High Card
+Player 2: QS, QD, TC, 7S, 7C Rank: Two Pairs
+Player 2 wins
+______________________________Game:464
+Player 1: KH, JD, 6D, 5H, 2D Rank: High Card
+Player 2: QD, JS, JH, 4S, 4H Rank: Two Pairs
+Player 2 wins
+______________________________Game:465
+Player 1: JH, 9C, 7S, 4S, 3S Rank: High Card
+Player 2: QC, TS, TC, 8C, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:466
+Player 1: QS, QH, JH, 9D, 4D Rank: One Pair
+Player 2: 7C, 6C, 3S, 2D, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:467
+Player 1: JD, 9S, 5H, 5C, 4H Rank: One Pair
+Player 2: AH, TS, 9D, 4C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:468
+Player 1: KS, JH, TS, 5D, 2D Rank: High Card
+Player 2: AS, AH, JS, 8D, 7H Rank: One Pair
+Player 2 wins
+______________________________Game:469
+Player 1: AH, AD, KS, JS, 8C Rank: One Pair
+Player 2: TH, 8H, 6C, 5S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:470
+Player 1: AD, AC, KS, 5D, 2H Rank: One Pair
+Player 2: QC, TS, 8H, 6H, 3D Rank: High Card
+Player 1 wins
+______________________________Game:471
+Player 1: TS, 9C, 6D, 5H, 4H Rank: High Card
+Player 2: JS, JH, JD, 6S, 4C Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:472
+Player 1: QH, JH, 6D, 4H, 2C Rank: High Card
+Player 2: KC, QS, 5D, 4C, 3C Rank: High Card
+Player 2 wins
+______________________________Game:473
+Player 1: 7H, 6S, 6H, 6C, 4H Rank: Three Of A Kind
+Player 2: KH, QC, 8S, 8C, 2S Rank: One Pair
+Player 1 wins
+______________________________Game:474
+Player 1: KS, 5D, 4H, 3H, 3D Rank: One Pair
+Player 2: AD, TS, TD, 4D, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:475
+Player 1: 8S, 7D, 7C, 5S, 2C Rank: One Pair
+Player 2: KS, JS, 8C, 7S, 6C Rank: High Card
+Player 1 wins
+______________________________Game:476
+Player 1: 7C, 5D, 5C, 3S, 2H Rank: One Pair
+Player 2: QD, 9H, 9C, 6D, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:477
+Player 1: KD, JS, 9S, 8D, 2S Rank: High Card
+Player 2: AC, TS, TD, 9D, 8C Rank: One Pair
+Player 2 wins
+______________________________Game:478
+Player 1: AC, QD, 8C, 5H, 2S Rank: High Card
+Player 2: KS, 9H, 7C, 4S, 3C Rank: High Card
+Player 1 wins
+______________________________Game:479
+Player 1: AS, KH, 9C, 8S, 3H Rank: High Card
+Player 2: AD, QS, JS, 4S, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:480
+Player 1: AS, AD, TD, 4D, 2S Rank: One Pair
+Player 2: QS, JC, 9H, 5H, 4C Rank: High Card
+Player 1 wins
+______________________________Game:481
+Player 1: TC, 7C, 5D, 4H, 2D Rank: High Card
+Player 2: KC, JS, 6C, 4S, 3S Rank: High Card
+Player 2 wins
+______________________________Game:482
+Player 1: AC, 9H, 5D, 4C, 2C Rank: High Card
+Player 2: QS, QH, JD, 8S, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:483
+Player 1: QH, 8S, 6H, 3C, 2C Rank: High Card
+Player 2: AH, AC, KD, TC, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:484
+Player 1: QS, QC, 6C, 4S, 3S Rank: One Pair
+Player 2: AD, AC, KH, 8D, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:485
+Player 1: AS, AC, KH, 5S, 4C Rank: One Pair
+Player 2: QC, 9C, 8D, 5C, 2C Rank: High Card
+Player 1 wins
+______________________________Game:486
+Player 1: KH, JD, 8H, 8D, 3C Rank: One Pair
+Player 2: QH, QD, 9D, 9C, 5C Rank: Two Pairs
+Player 2 wins
+______________________________Game:487
+Player 1: TS, 8C, 7H, 4S, 2C Rank: High Card
+Player 2: QH, JC, TD, 9C, 5H Rank: High Card
+Player 2 wins
+______________________________Game:488
+Player 1: JS, TH, 7C, 4S, 2C Rank: High Card
+Player 2: AS, KS, JD, 7S, 6C Rank: High Card
+Player 2 wins
+______________________________Game:489
+Player 1: JH, TC, 9H, 7H, 7C Rank: One Pair
+Player 2: 6D, 5H, 5D, 4D, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:490
+Player 1: QD, JH, 9D, 2H, 2C Rank: One Pair
+Player 2: AD, KS, TD, 5S, 3D Rank: High Card
+Player 1 wins
+______________________________Game:491
+Player 1: QH, JD, TH, 4D, 3S Rank: High Card
+Player 2: KS, QS, 7D, 6S, 4H Rank: High Card
+Player 2 wins
+______________________________Game:492
+Player 1: KS, TC, 8H, 8D, 5S Rank: One Pair
+Player 2: AD, JH, 4C, 2S, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:493
+Player 1: JH, TC, 5S, 3S, 2D Rank: High Card
+Player 2: KD, QS, 9S, 9D, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:494
+Player 1: AS, AC, KH, 9D, 3H Rank: One Pair
+Player 2: KC, QD, 9H, 6S, 6C Rank: One Pair
+Player 1 wins
+______________________________Game:495
+Player 1: 9H, 7S, 7D, 5C, 3D Rank: One Pair
+Player 2: KC, TD, 8H, 6S, 4H Rank: High Card
+Player 1 wins
+______________________________Game:496
+Player 1: QD, TC, 8H, 7H, 3C Rank: High Card
+Player 2: QH, 7S, 6S, 6C, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:497
+Player 1: AD, QD, 6D, 6C, 4C Rank: One Pair
+Player 2: KS, TS, 9D, 7D, 5D Rank: High Card
+Player 1 wins
+______________________________Game:498
+Player 1: JH, JD, 9S, 7S, 2H Rank: One Pair
+Player 2: KH, TS, 8H, 8D, 5D Rank: One Pair
+Player 1 wins
+______________________________Game:499
+Player 1: 9S, 9D, 7D, 4C, 2D Rank: One Pair
+Player 2: AC, QD, 6S, 6D, 5H Rank: One Pair
+Player 1 wins
+______________________________Game:500
+Player 1: QD, JH, JC, 7S, 6D Rank: One Pair
+Player 2: QS, 7D, 6S, 4C, 2H Rank: High Card
+Player 1 wins
+______________________________Game:501
+Player 1: KD, JH, TD, 8C, 2H Rank: High Card
+Player 2: QS, JS, 7S, 5C, 2C Rank: High Card
+Player 1 wins
+______________________________Game:502
+Player 1: QD, JH, TC, 5H, 4H Rank: High Card
+Player 2: KH, 8S, 5S, 5D, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:503
+Player 1: KS, KH, 7C, 5D, 2C Rank: One Pair
+Player 2: JH, JC, 9C, 6S, 6D Rank: Two Pairs
+Player 2 wins
+______________________________Game:504
+Player 1: AH, JS, JD, 9C, 5H Rank: One Pair
+Player 2: KC, 6H, 5S, 4D, 2H Rank: High Card
+Player 1 wins
+______________________________Game:505
+Player 1: AS, QC, TH, 6H, 3C Rank: High Card
+Player 2: TD, 9C, 8S, 8C, 7C Rank: One Pair
+Player 2 wins
+______________________________Game:506
+Player 1: KH, KC, QD, 9C, 2C Rank: One Pair
+Player 2: TS, 9H, 7S, 4D, 3C Rank: High Card
+Player 1 wins
+______________________________Game:507
+Player 1: QC, TS, 9C, 8C, 2S Rank: High Card
+Player 2: QD, TD, 9S, 3S, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:508
+Player 1: AH, JH, TH, 9D, 4D Rank: High Card
+Player 2: QH, JS, JD, 6S, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:509
+Player 1: KD, QD, 9H, 7D, 6C Rank: High Card
+Player 2: AH, 8H, 7H, 6S, 5D Rank: High Card
+Player 2 wins
+______________________________Game:510
+Player 1: 8H, 5H, 4S, 3C, 2H Rank: High Card
+Player 2: AC, QS, QH, 7S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:511
+Player 1: QS, 9S, 7S, 4H, 3C Rank: High Card
+Player 2: AH, KS, 9D, 7C, 3S Rank: High Card
+Player 2 wins
+______________________________Game:512
+Player 1: AD, 6S, 5S, 2H, 2D Rank: One Pair
+Player 2: TC, 8C, 5H, 4S, 3C Rank: High Card
+Player 1 wins
+______________________________Game:513
+Player 1: QH, JS, TS, 6S, 4D Rank: High Card
+Player 2: AS, KS, JH, 8S, 6D Rank: High Card
+Player 2 wins
+______________________________Game:514
+Player 1: TD, 8S, 5H, 2S, 2C Rank: One Pair
+Player 2: AS, KC, TS, TC, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:515
+Player 1: KC, TS, 8H, 3H, 2H Rank: High Card
+Player 2: TH, TD, 7C, 5S, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:516
+Player 1: AD, KH, KD, 7S, 7H Rank: Two Pairs
+Player 2: 9C, 5S, 5H, 5D, 2D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:517
+Player 1: AD, 9S, 8C, 7S, 3D Rank: High Card
+Player 2: KS, KD, QC, 9C, 7C Rank: One Pair
+Player 2 wins
+______________________________Game:518
+Player 1: QC, 9S, 8C, 4D, 3C Rank: High Card
+Player 2: AS, QD, 6C, 5C, 2C Rank: High Card
+Player 2 wins
+______________________________Game:519
+Player 1: KC, JD, 8S, 7S, 2H Rank: High Card
+Player 2: AC, 8D, 5C, 4D, 2S Rank: High Card
+Player 2 wins
+______________________________Game:520
+Player 1: QH, TC, 9D, 3D, 2S Rank: High Card
+Player 2: KS, TD, 9H, 3S, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:521
+Player 1: AC, KD, 7H, 6S, 2C Rank: High Card
+Player 2: 8C, 6H, 6C, 5H, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:522
+Player 1: KH, QH, TC, 8S, 6S Rank: High Card
+Player 2: TS, TH, 5D, 4H, 4D Rank: Two Pairs
+Player 2 wins
+______________________________Game:523
+Player 1: JS, 8C, 6H, 4H, 2C Rank: High Card
+Player 2: AC, QD, 7D, 3D, 2H Rank: High Card
+Player 2 wins
+______________________________Game:524
+Player 1: KC, QS, 6S, 5S, 2D Rank: High Card
+Player 2: JH, TD, 4H, 4C, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:525
+Player 1: KH, 8H, 7S, 7H, 5H Rank: One Pair
+Player 2: KD, QS, TH, 7D, 6H Rank: High Card
+Player 1 wins
+______________________________Game:526
+Player 1: AD, KH, KD, 7C, 5H Rank: One Pair
+Player 2: TD, 6D, 6C, 5S, 3C Rank: One Pair
+Player 1 wins
+______________________________Game:527
+Player 1: JD, 9C, 8C, 7C, 5H Rank: High Card
+Player 2: KH, KC, 7H, 3S, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:528
+Player 1: AD, 8S, 7S, 4H, 4D Rank: One Pair
+Player 2: QS, TH, 7H, 5S, 3D Rank: High Card
+Player 1 wins
+______________________________Game:529
+Player 1: KS, KD, TC, 9S, 8D Rank: One Pair
+Player 2: AD, JD, 6D, 5C, 2S Rank: High Card
+Player 1 wins
+______________________________Game:530
+Player 1: QD, 8H, 7H, 6C, 2H Rank: High Card
+Player 2: TC, 9S, 9D, 7C, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:531
+Player 1: 8D, 7C, 6D, 6C, 4C Rank: One Pair
+Player 2: KH, JS, JH, TH, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:532
+Player 1: JS, 9H, 8S, 5S, 3S Rank: High Card
+Player 2: AS, AD, KD, 8H, 7S Rank: One Pair
+Player 2 wins
+______________________________Game:533
+Player 1: KC, JH, 7C, 5H, 2C Rank: High Card
+Player 2: AS, AD, JS, 9S, 9C Rank: Two Pairs
+Player 2 wins
+______________________________Game:534
+Player 1: AD, AC, QD, 6S, 2C Rank: One Pair
+Player 2: KS, KD, TH, 7C, 3H Rank: One Pair
+Player 1 wins
+______________________________Game:535
+Player 1: JD, 9D, 8H, 4H, 4C Rank: One Pair
+Player 2: KH, KC, TS, 8C, 7S Rank: One Pair
+Player 2 wins
+______________________________Game:536
+Player 1: 7S, 6H, 5S, 3S, 2H Rank: High Card
+Player 2: AD, KS, 7D, 6D, 5C Rank: High Card
+Player 2 wins
+______________________________Game:537
+Player 1: QS, 9H, 8C, 7H, 5S Rank: High Card
+Player 2: TD, 7S, 7D, 6C, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:538
+Player 1: AC, QS, TD, 9D, 5S Rank: High Card
+Player 2: KC, TC, 4D, 3D, 2D Rank: High Card
+Player 1 wins
+______________________________Game:539
+Player 1: QD, JD, TD, 7D, 2H Rank: High Card
+Player 2: KC, 7H, 5D, 4C, 3D Rank: High Card
+Player 2 wins
+______________________________Game:540
+Player 1: KD, QH, 8S, 4C, 3H Rank: High Card
+Player 2: QC, TC, 9H, 5S, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:541
+Player 1: QD, TS, TH, 9C, 5H Rank: One Pair
+Player 2: AH, QH, 9H, 5C, 2C Rank: High Card
+Player 1 wins
+______________________________Game:542
+Player 1: AC, 6S, 6C, 4D, 3C Rank: One Pair
+Player 2: TH, TD, 3D, 2H, 2C Rank: Two Pairs
+Player 2 wins
+______________________________Game:543
+Player 1: AC, QC, 9C, 5D, 4D Rank: High Card
+Player 2: AD, KC, 8D, 8C, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:544
+Player 1: AD, AC, 8D, 4H, 3C Rank: One Pair
+Player 2: JC, TD, 9S, 8H, 7S Rank: Straight
+Player 2 wins
+______________________________Game:545
+Player 1: QH, JS, 9H, 4H, 2D Rank: High Card
+Player 2: KS, KD, TH, TD, TC Rank: Full House
+Player 2 wins
+______________________________Game:546
+Player 1: TH, 9S, 8D, 6S, 5S Rank: High Card
+Player 2: AS, KH, 8S, 5H, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:547
+Player 1: JD, 9S, 6S, 5S, 2S Rank: High Card
+Player 2: 9D, 8S, 7S, 7H, 5D Rank: One Pair
+Player 2 wins
+______________________________Game:548
+Player 1: AD, 9D, 8C, 5D, 4C Rank: High Card
+Player 2: KD, TS, TC, 7D, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:549
+Player 1: KC, QS, 8S, 5C, 4D Rank: High Card
+Player 2: KH, KD, JD, 8D, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:550
+Player 1: AS, AD, QH, 7D, 5C Rank: One Pair
+Player 2: TC, 9S, 7H, 7C, 2H Rank: One Pair
+Player 1 wins
+______________________________Game:551
+Player 1: KH, JD, 8S, 7S, 2S Rank: High Card
+Player 2: AD, QC, 6D, 6C, 5D Rank: One Pair
+Player 2 wins
+______________________________Game:552
+Player 1: 9H, 8H, 8C, 6H, 3S Rank: One Pair
+Player 2: AH, JS, TD, TC, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:553
+Player 1: TS, 7H, 4D, 2D, 2C Rank: One Pair
+Player 2: QC, TH, 9C, 7C, 5D Rank: High Card
+Player 1 wins
+______________________________Game:554
+Player 1: QC, TS, 8H, 6C, 5D Rank: High Card
+Player 2: JH, 9H, 5H, 5C, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:555
+Player 1: AS, QC, JS, 7H, 2D Rank: High Card
+Player 2: 8S, 8D, 4H, 4C, 2H Rank: Two Pairs
+Player 2 wins
+______________________________Game:556
+Player 1: AC, KD, JS, 6S, 3D Rank: High Card
+Player 2: KC, TH, 7H, 4S, 3C Rank: High Card
+Player 1 wins
+______________________________Game:557
+Player 1: KH, QS, QH, 6S, 5S Rank: One Pair
+Player 2: QD, 4H, 3S, 3H, 3C Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:558
+Player 1: AS, KH, 8C, 7H, 4H Rank: High Card
+Player 2: TS, 9C, 6S, 5S, 3D Rank: High Card
+Player 1 wins
+______________________________Game:559
+Player 1: QD, 9C, 7C, 5S, 3H Rank: High Card
+Player 2: AD, AC, 5H, 3D, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:560
+Player 1: JH, TS, TD, 4C, 2D Rank: One Pair
+Player 2: AD, KH, 7S, 3S, 3H Rank: One Pair
+Player 1 wins
+______________________________Game:561
+Player 1: AS, 6S, 5H, 4D, 4C Rank: One Pair
+Player 2: KD, JC, 6H, 3C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:562
+Player 1: TH, 8C, 6S, 3H, 2D Rank: High Card
+Player 2: AH, AD, QH, 5H, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:563
+Player 1: KC, 9H, 7H, 7C, 2S Rank: One Pair
+Player 2: JC, 6D, 5S, 5C, 3H Rank: One Pair
+Player 1 wins
+______________________________Game:564
+Player 1: QD, TC, 9C, 4H, 3C Rank: High Card
+Player 2: JH, TD, 9H, 6D, 5S Rank: High Card
+Player 1 wins
+______________________________Game:565
+Player 1: 7C, 6S, 6C, 5D, 5C Rank: Two Pairs
+Player 2: AH, 9H, 7H, 6H, 4S Rank: High Card
+Player 1 wins
+______________________________Game:566
+Player 1: AD, KC, 7D, 2H, 2C Rank: One Pair
+Player 2: 9S, 7H, 4C, 3S, 2S Rank: High Card
+Player 1 wins
+______________________________Game:567
+Player 1: TH, 8S, 6S, 4C, 3S Rank: High Card
+Player 2: AS, AD, KS, JH, TD Rank: One Pair
+Player 2 wins
+______________________________Game:568
+Player 1: AD, TD, 5C, 4S, 4D Rank: One Pair
+Player 2: TC, 9C, 7D, 6S, 5D Rank: High Card
+Player 1 wins
+______________________________Game:569
+Player 1: 8H, 5S, 4S, 4D, 3S Rank: One Pair
+Player 2: AC, 6H, 5C, 3H, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:570
+Player 1: AC, QS, 9H, 4S, 3C Rank: High Card
+Player 2: QH, 9D, 8S, 5H, 4D Rank: High Card
+Player 1 wins
+______________________________Game:571
+Player 1: AC, JC, TS, 6C, 5H Rank: High Card
+Player 2: QD, JD, 9C, 8C, 7C Rank: High Card
+Player 1 wins
+______________________________Game:572
+Player 1: JD, 9C, 8S, 8H, 2D Rank: One Pair
+Player 2: QH, QC, 8D, 6H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:573
+Player 1: KS, JS, 6H, 5H, 2H Rank: High Card
+Player 2: QS, QH, 7C, 6D, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:574
+Player 1: QC, TC, 7H, 4S, 3H Rank: High Card
+Player 2: KH, JS, 8C, 3S, 2H Rank: High Card
+Player 2 wins
+______________________________Game:575
+Player 1: AH, 9H, 8H, 5S, 4C Rank: High Card
+Player 2: AC, JD, JC, 7S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:576
+Player 1: 6C, 5S, 4C, 3C, 2D Rank: Straight
+Player 2: QS, JD, 4S, 3S, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:577
+Player 1: AH, KS, TC, 5H, 2D Rank: High Card
+Player 2: AD, 8C, 7H, 6H, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:578
+Player 1: JD, 7S, 7C, 6C, 3C Rank: One Pair
+Player 2: AH, KS, KH, 8H, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:579
+Player 1: AH, 8S, 8H, 7D, 3H Rank: One Pair
+Player 2: QS, 9D, 7H, 5H, 2D Rank: High Card
+Player 1 wins
+______________________________Game:580
+Player 1: AC, JD, 8S, 7S, 4H Rank: High Card
+Player 2: AS, KS, QH, 9S, 9D Rank: One Pair
+Player 2 wins
+______________________________Game:581
+Player 1: JH, 8S, 7S, 5S, 2C Rank: High Card
+Player 2: AH, KD, QS, JC, 4C Rank: High Card
+Player 2 wins
+______________________________Game:582
+Player 1: AH, 9H, 8D, 4H, 2S Rank: High Card
+Player 2: QH, JD, TS, TD, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:583
+Player 1: QS, JC, 6D, 4H, 3H Rank: High Card
+Player 2: 9D, 9C, 8S, 8D, 7S Rank: Two Pairs
+Player 2 wins
+______________________________Game:584
+Player 1: TD, 9S, 5H, 4S, 4C Rank: One Pair
+Player 2: 8D, 8C, 7H, 3H, 3D Rank: Two Pairs
+Player 2 wins
+______________________________Game:585
+Player 1: KH, QS, 3S, 2S, 2C Rank: One Pair
+Player 2: QD, TD, 7S, 4S, 3C Rank: High Card
+Player 1 wins
+______________________________Game:586
+Player 1: KH, TD, 7C, 5S, 4D Rank: High Card
+Player 2: AS, AC, 7H, 6C, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:587
+Player 1: JD, 9H, 6D, 5H, 2S Rank: High Card
+Player 2: QS, TD, 8S, 2H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:588
+Player 1: TS, 9H, 7S, 6H, 2S Rank: High Card
+Player 2: JC, 5S, 5D, 4H, 4C Rank: Two Pairs
+Player 2 wins
+______________________________Game:589
+Player 1: 7D, 5H, 4H, 3S, 2C Rank: High Card
+Player 2: QH, JS, JC, 8H, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:590
+Player 1: QH, QD, 7C, 4C, 3S Rank: One Pair
+Player 2: AD, TS, TH, 8S, 5S Rank: One Pair
+Player 1 wins
+______________________________Game:591
+Player 1: JC, TD, TC, 9H, 2S Rank: One Pair
+Player 2: QH, TH, 7D, 3S, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:592
+Player 1: JH, 8S, 7D, 5C, 4C Rank: High Card
+Player 2: KC, 8H, 6S, 3S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:593
+Player 1: KH, QH, JC, TC, 3H Rank: High Card
+Player 2: AC, TH, 6H, 5H, 2C Rank: High Card
+Player 2 wins
+______________________________Game:594
+Player 1: AS, QS, 9D, 2H, 2C Rank: One Pair
+Player 2: 8S, 8C, 6S, 6C, 2S Rank: Two Pairs
+Player 2 wins
+______________________________Game:595
+Player 1: QC, TH, 9H, 7D, 4H Rank: High Card
+Player 2: AC, KD, QS, 7S, 3C Rank: High Card
+Player 2 wins
+______________________________Game:596
+Player 1: JH, 8H, 6S, 5S, 4D Rank: High Card
+Player 2: AS, KS, QC, 9S, 3S Rank: High Card
+Player 2 wins
+______________________________Game:597
+Player 1: JD, TC, 7S, 6S, 2D Rank: High Card
+Player 2: KD, KC, 9H, 7D, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:598
+Player 1: KH, 7C, 4S, 4D, 2H Rank: One Pair
+Player 2: KC, QD, JS, 7D, 3H Rank: High Card
+Player 1 wins
+______________________________Game:599
+Player 1: AS, JC, 9D, 4C, 3C Rank: High Card
+Player 2: QD, JS, 8H, 6C, 4D Rank: High Card
+Player 1 wins
+______________________________Game:600
+Player 1: AH, JS, 6C, 4C, 3S Rank: High Card
+Player 2: JH, 9H, 9C, 6D, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:601
+Player 1: 9H, 8C, 7H, 5S, 2D Rank: High Card
+Player 2: KS, TC, 9C, 6H, 2S Rank: High Card
+Player 2 wins
+______________________________Game:602
+Player 1: AD, 8C, 7H, 6H, 6C Rank: One Pair
+Player 2: AS, KH, TH, 5D, 3D Rank: High Card
+Player 1 wins
+______________________________Game:603
+Player 1: KS, TS, 8S, 8C, 3S Rank: One Pair
+Player 2: 9S, 6C, 5S, 4H, 4D Rank: One Pair
+Player 1 wins
+______________________________Game:604
+Player 1: 9H, 7D, 5C, 4S, 4H Rank: One Pair
+Player 2: KC, JH, 9D, 2H, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:605
+Player 1: JS, TC, 9H, 9D, 5C Rank: One Pair
+Player 2: KH, JC, 7S, 6S, 5H Rank: High Card
+Player 1 wins
+______________________________Game:606
+Player 1: JC, 9H, 8H, 7C, 4D Rank: High Card
+Player 2: KH, JD, TD, TC, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:607
+Player 1: KH, 8H, 6C, 2H, 2C Rank: One Pair
+Player 2: QS, QH, 9D, 6H, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:608
+Player 1: AC, QD, 7D, 3D, 2S Rank: High Card
+Player 2: JH, JD, JC, 8D, 2D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:609
+Player 1: JC, 7H, 2H, 2D, 2C Rank: Three Of A Kind
+Player 2: KD, TD, 8D, 4H, 3C Rank: High Card
+Player 1 wins
+______________________________Game:610
+Player 1: TS, 8D, 6D, 4H, 3S Rank: High Card
+Player 2: TH, TD, 6H, 3H, 3D Rank: Two Pairs
+Player 2 wins
+______________________________Game:611
+Player 1: AC, QH, JH, JC, 3S Rank: One Pair
+Player 2: QC, 9H, 8S, 7H, 2C Rank: High Card
+Player 1 wins
+______________________________Game:612
+Player 1: QS, TD, 8S, 7H, 4S Rank: High Card
+Player 2: 9C, 5D, 4D, 2S, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:613
+Player 1: QC, TS, 3H, 3D, 2S Rank: One Pair
+Player 2: KS, KC, JC, 8H, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:614
+Player 1: JD, TC, 8C, 7D, 5D Rank: High Card
+Player 2: AC, 9S, 8D, 6C, 3D Rank: High Card
+Player 2 wins
+______________________________Game:615
+Player 1: JH, 8H, 6H, 6C, 5D Rank: One Pair
+Player 2: AD, 8S, 8D, 4H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:616
+Player 1: 9D, 4H, 3S, 2D, 2C Rank: One Pair
+Player 2: AS, TS, TC, 5D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:617
+Player 1: KS, QS, TH, 5H, 4D Rank: High Card
+Player 2: AD, 6C, 4S, 3D, 2H Rank: High Card
+Player 2 wins
+______________________________Game:618
+Player 1: KC, 6H, 5S, 5C, 2C Rank: One Pair
+Player 2: 9S, 9H, 4D, 3C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:619
+Player 1: QH, JD, TH, 4C, 3H Rank: High Card
+Player 2: AH, AC, 9H, 8S, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:620
+Player 1: TD, 9S, 7D, 6S, 2H Rank: High Card
+Player 2: QS, 9C, 8H, 4H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:621
+Player 1: 8C, 6H, 5D, 4H, 3C Rank: High Card
+Player 2: KC, QS, QD, 9C, 6S Rank: One Pair
+Player 2 wins
+______________________________Game:622
+Player 1: KD, TC, 9H, 3S, 2D Rank: High Card
+Player 2: JS, 8C, 6S, 4S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:623
+Player 1: QS, 8S, 6H, 4C, 2S Rank: High Card
+Player 2: KH, TH, 8C, 5D, 3H Rank: High Card
+Player 2 wins
+______________________________Game:624
+Player 1: KH, 7S, 5S, 3S, 2C Rank: High Card
+Player 2: QD, 9D, 8D, 7H, 6C Rank: High Card
+Player 1 wins
+______________________________Game:625
+Player 1: AC, KS, KH, 8H, 2D Rank: One Pair
+Player 2: KC, JS, TS, 7H, 6C Rank: High Card
+Player 1 wins
+______________________________Game:626
+Player 1: KS, QC, TD, 9C, 5C Rank: High Card
+Player 2: AH, 9S, 7C, 6C, 5H Rank: High Card
+Player 2 wins
+______________________________Game:627
+Player 1: 6S, 5D, 4H, 4D, 3H Rank: One Pair
+Player 2: AH, QD, TD, 7S, 7C Rank: One Pair
+Player 2 wins
+______________________________Game:628
+Player 1: QC, TC, 7D, 6S, 2H Rank: High Card
+Player 2: AH, TS, 9D, 7S, 3H Rank: High Card
+Player 2 wins
+______________________________Game:629
+Player 1: KS, QD, TH, 9S, 5H Rank: High Card
+Player 2: TD, 8C, 7S, 7C, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:630
+Player 1: QC, TH, 5C, 4D, 2D Rank: High Card
+Player 2: AH, JD, 9C, 7D, 4H Rank: High Card
+Player 2 wins
+______________________________Game:631
+Player 1: AH, 8D, 6H, 4H, 3H Rank: High Card
+Player 2: QH, QC, 9H, 2H, 2C Rank: Two Pairs
+Player 2 wins
+______________________________Game:632
+Player 1: AD, TS, 6H, 4C, 2D Rank: High Card
+Player 2: QS, TH, TD, 7S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:633
+Player 1: KD, QS, 3H, 3C, 2H Rank: One Pair
+Player 2: QC, JD, TC, 8H, 5D Rank: High Card
+Player 1 wins
+______________________________Game:634
+Player 1: KS, QD, JC, TH, 9S Rank: Straight
+Player 2: KD, 9C, 8D, 8C, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:635
+Player 1: KD, QD, 6D, 4D, 3C Rank: High Card
+Player 2: AH, AD, QC, 8S, 8D Rank: Two Pairs
+Player 2 wins
+______________________________Game:636
+Player 1: 9D, 8H, 3S, 3H, 2S Rank: One Pair
+Player 2: KS, KC, 7C, 6H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:637
+Player 1: TH, 9S, 7D, 5C, 3D Rank: High Card
+Player 2: AC, 7S, 6H, 4D, 2C Rank: High Card
+Player 2 wins
+______________________________Game:638
+Player 1: JD, 5C, 4D, 3D, 2D Rank: High Card
+Player 2: KH, 9H, 6D, 5H, 4C Rank: High Card
+Player 2 wins
+______________________________Game:639
+Player 1: AS, TD, 7H, 6C, 2H Rank: High Card
+Player 2: KS, QD, 4S, 4C, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:640
+Player 1: AC, JD, JC, 7C, 3C Rank: One Pair
+Player 2: QC, JS, 9S, 8H, 5D Rank: High Card
+Player 1 wins
+______________________________Game:641
+Player 1: AS, JD, 6S, 5S, 2H Rank: High Card
+Player 2: JH, 8C, 7D, 5H, 3D Rank: High Card
+Player 1 wins
+______________________________Game:642
+Player 1: TC, 9S, 8S, 8D, 5S Rank: One Pair
+Player 2: AS, JC, 7S, 5H, 3H Rank: High Card
+Player 1 wins
+______________________________Game:643
+Player 1: TD, 7D, 5C, 4H, 3D Rank: High Card
+Player 2: JS, 8D, 7H, 5D, 4D Rank: High Card
+Player 2 wins
+______________________________Game:644
+Player 1: KS, QS, TD, 9C, 2S Rank: High Card
+Player 2: AS, 8S, 5C, 4H, 2H Rank: High Card
+Player 2 wins
+______________________________Game:645
+Player 1: TH, 7S, 7D, 4H, 3H Rank: One Pair
+Player 2: KD, KC, JD, 5D, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:646
+Player 1: JD, 8H, 7H, 4S, 4C Rank: One Pair
+Player 2: QH, JS, 6H, 5S, 4H Rank: High Card
+Player 1 wins
+______________________________Game:647
+Player 1: QS, 8C, 5S, 3H, 2C Rank: High Card
+Player 2: AD, QD, QC, 6C, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:648
+Player 1: JD, TC, 8C, 4H, 3D Rank: High Card
+Player 2: AD, AC, 5S, 2S, 2H Rank: Two Pairs
+Player 2 wins
+______________________________Game:649
+Player 1: AD, JS, 5D, 2D, 2C Rank: One Pair
+Player 2: JH, 9D, 4S, 4C, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:650
+Player 1: 8D, 7S, 6H, 5H, 5D Rank: One Pair
+Player 2: KS, JD, TD, 9D, 4D Rank: High Card
+Player 1 wins
+______________________________Game:651
+Player 1: AS, 9C, 6D, 3D, 2S Rank: High Card
+Player 2: JD, 8H, 7D, 5S, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:652
+Player 1: 8S, 7C, 6S, 5H, 3S Rank: High Card
+Player 2: AD, JD, TC, 7S, 7H Rank: One Pair
+Player 2 wins
+______________________________Game:653
+Player 1: AC, TS, 9D, 4D, 2S Rank: High Card
+Player 2: QD, JD, 8D, 6C, 3H Rank: High Card
+Player 1 wins
+______________________________Game:654
+Player 1: AC, KH, 9S, 3C, 2C Rank: High Card
+Player 2: 8D, 6H, 5H, 5D, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:655
+Player 1: AS, KS, 6S, 3D, 2D Rank: High Card
+Player 2: KH, 7H, 7C, 4C, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:656
+Player 1: AC, JC, 5C, 3S, 2H Rank: High Card
+Player 2: QH, 7S, 5H, 4D, 2D Rank: High Card
+Player 1 wins
+______________________________Game:657
+Player 1: AS, JD, TS, 8C, 6H Rank: High Card
+Player 2: JC, 8S, 5S, 5D, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:658
+Player 1: QH, QC, 7S, 7H, 6C Rank: Two Pairs
+Player 2: JD, 8H, 7C, 2S, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:659
+Player 1: QD, JC, 2S, 2H, 2C Rank: Three Of A Kind
+Player 2: JH, JD, 9C, 5D, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:660
+Player 1: 9C, 8S, 7D, 7C, 5C Rank: One Pair
+Player 2: JH, 9S, 8D, 6D, 6C Rank: One Pair
+Player 1 wins
+______________________________Game:661
+Player 1: AD, 6S, 5H, 3S, 2C Rank: High Card
+Player 2: KS, KH, 9D, 7S, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:662
+Player 1: TH, 7H, 6C, 5C, 2C Rank: High Card
+Player 2: AH, QC, 9D, 8D, 3S Rank: High Card
+Player 2 wins
+______________________________Game:663
+Player 1: KC, TC, 6H, 5S, 5H Rank: One Pair
+Player 2: AH, TH, 8S, 6D, 3C Rank: High Card
+Player 1 wins
+______________________________Game:664
+Player 1: AD, KD, TD, 9C, 4H Rank: High Card
+Player 2: 9S, 7D, 6H, 5D, 4S Rank: High Card
+Player 1 wins
+______________________________Game:665
+Player 1: AS, 7H, 6D, 5H, 5C Rank: One Pair
+Player 2: KH, KD, 9D, 4H, 4C Rank: Two Pairs
+Player 2 wins
+______________________________Game:666
+Player 1: JD, 6C, 5C, 3C, 2S Rank: High Card
+Player 2: QS, 9D, 7D, 3H, 2H Rank: High Card
+Player 2 wins
+______________________________Game:667
+Player 1: AC, JS, 7S, 6S, 2S Rank: High Card
+Player 2: AD, QS, QD, 6H, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:668
+Player 1: QC, TH, TC, 7H, 5H Rank: One Pair
+Player 2: KC, 7C, 6D, 3S, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:669
+Player 1: QC, 9S, 8H, 4H, 3D Rank: High Card
+Player 2: KS, JC, 5C, 3S, 2C Rank: High Card
+Player 2 wins
+______________________________Game:670
+Player 1: 8S, 6S, 6H, 4S, 2C Rank: One Pair
+Player 2: JS, 9H, 3S, 3H, 3D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:671
+Player 1: 8H, 8C, 4S, 4D, 2D Rank: Two Pairs
+Player 2: AH, TS, 9H, 9D, 7D Rank: One Pair
+Player 1 wins
+______________________________Game:672
+Player 1: 9S, 9H, 8D, 4C, 2C Rank: One Pair
+Player 2: AS, 7D, 6D, 5S, 3D Rank: High Card
+Player 1 wins
+______________________________Game:673
+Player 1: 8C, 7H, 6S, 4C, 3H Rank: High Card
+Player 2: AH, JC, 9D, 9C, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:674
+Player 1: JD, 8C, 7C, 5S, 2S Rank: High Card
+Player 2: 7D, 6S, 4D, 3S, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:675
+Player 1: KC, 7D, 5D, 4S, 3C Rank: High Card
+Player 2: JD, 7H, 4H, 3H, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:676
+Player 1: TH, 9H, 9C, 4H, 4D Rank: Two Pairs
+Player 2: QD, 9S, 8S, 7S, 6D Rank: High Card
+Player 1 wins
+______________________________Game:677
+Player 1: AD, AC, 8S, 4S, 2H Rank: One Pair
+Player 2: AH, TC, 8C, 7D, 2C Rank: High Card
+Player 1 wins
+______________________________Game:678
+Player 1: AD, KS, TS, 9H, 3C Rank: High Card
+Player 2: JD, TC, 8H, 8C, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:679
+Player 1: QC, 8D, 7D, 3C, 2C Rank: High Card
+Player 2: JD, 9H, 9C, 7C, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:680
+Player 1: AH, JS, JH, 6S, 5D Rank: One Pair
+Player 2: AS, QC, JD, TD, 2C Rank: High Card
+Player 1 wins
+______________________________Game:681
+Player 1: KD, 9H, 5D, 2H, 2D Rank: One Pair
+Player 2: AH, TS, TC, 7D, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:682
+Player 1: AS, AH, TD, 8H, 5D Rank: One Pair
+Player 2: AC, QC, TC, 6S, 5H Rank: High Card
+Player 1 wins
+______________________________Game:683
+Player 1: KS, 8D, 7H, 4S, 4D Rank: One Pair
+Player 2: TC, 9C, 6H, 3H, 2H Rank: High Card
+Player 1 wins
+______________________________Game:684
+Player 1: KD, QH, QD, 4S, 3H Rank: One Pair
+Player 2: TD, 8H, 8C, 7S, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:685
+Player 1: AH, JS, JD, TC, 8S Rank: One Pair
+Player 2: KS, KH, QS, 4D, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:686
+Player 1: AD, KD, JS, JC, 3C Rank: One Pair
+Player 2: KH, TH, 9H, 4S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:687
+Player 1: KS, QC, JS, 9S, 5S Rank: High Card
+Player 2: AS, QD, JD, 7C, 2S Rank: High Card
+Player 2 wins
+______________________________Game:688
+Player 1: KC, QS, 5S, 3S, 2D Rank: High Card
+Player 2: AC, KS, 9H, 8H, 5D Rank: High Card
+Player 2 wins
+______________________________Game:689
+Player 1: AD, TC, 9C, 6H, 2C Rank: High Card
+Player 2: JD, 7C, 6D, 6C, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:690
+Player 1: KH, QS, QD, TD, 2C Rank: One Pair
+Player 2: AH, QC, 8S, 3H, 2S Rank: High Card
+Player 1 wins
+______________________________Game:691
+Player 1: QH, JH, TC, 9H, 9D Rank: One Pair
+Player 2: JS, 7H, 5C, 3C, 2S Rank: High Card
+Player 1 wins
+______________________________Game:692
+Player 1: 6C, 4S, 3S, 3D, 2S Rank: One Pair
+Player 2: QD, TH, 5D, 2D, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:693
+Player 1: JC, 6H, 6D, 2S, 2D Rank: Two Pairs
+Player 2: AS, KH, QH, 7H, 4H Rank: High Card
+Player 1 wins
+______________________________Game:694
+Player 1: AD, KS, TC, 6S, 5H Rank: High Card
+Player 2: AC, TS, 7C, 4S, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:695
+Player 1: AD, QS, 8C, 4H, 3C Rank: High Card
+Player 2: KS, 9D, 4D, 2H, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:696
+Player 1: 9D, 9C, 6D, 6C, 4S Rank: Two Pairs
+Player 2: AC, KD, 8D, 7H, 3H Rank: High Card
+Player 1 wins
+______________________________Game:697
+Player 1: AH, JD, JC, TS, 6C Rank: One Pair
+Player 2: AD, QD, 6D, 5D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:698
+Player 1: JH, JD, JC, 7S, 3S Rank: Three Of A Kind
+Player 2: QC, JS, 8S, 4S, 3H Rank: High Card
+Player 1 wins
+______________________________Game:699
+Player 1: AD, JD, TH, 5C, 2C Rank: High Card
+Player 2: JS, 9S, 7S, 7H, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:700
+Player 1: QC, JH, 8D, 4D, 3S Rank: High Card
+Player 2: AS, KC, JD, 6H, 2C Rank: High Card
+Player 2 wins
+______________________________Game:701
+Player 1: AC, KD, 5S, 5H, 2C Rank: One Pair
+Player 2: AH, QD, JH, 7H, 2D Rank: High Card
+Player 1 wins
+______________________________Game:702
+Player 1: QH, JC, TC, 8S, 8D Rank: One Pair
+Player 2: AH, 8C, 6C, 5H, 5C Rank: One Pair
+Player 1 wins
+______________________________Game:703
+Player 1: QD, JS, JH, 8S, 3H Rank: One Pair
+Player 2: 6D, 5C, 4H, 3S, 3C Rank: One Pair
+Player 1 wins
+______________________________Game:704
+Player 1: AH, 6D, 5H, 4S, 4C Rank: One Pair
+Player 2: JD, 8D, 7C, 5S, 3H Rank: High Card
+Player 1 wins
+______________________________Game:705
+Player 1: AH, JS, 8H, 3H, 2H Rank: High Card
+Player 2: KD, QC, 7D, 4H, 3C Rank: High Card
+Player 1 wins
+______________________________Game:706
+Player 1: KD, 8H, 6S, 5H, 2H Rank: High Card
+Player 2: QD, 8S, 7S, 3C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:707
+Player 1: AH, KC, QC, 7S, 2S Rank: High Card
+Player 2: QS, TC, 8D, 6D, 4C Rank: High Card
+Player 1 wins
+______________________________Game:708
+Player 1: QD, 9H, 5S, 3S, 2C Rank: High Card
+Player 2: 9D, 7S, 7C, 6C, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:709
+Player 1: JD, 6C, 5S, 5C, 3C Rank: One Pair
+Player 2: KS, JC, TS, 5D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:710
+Player 1: KS, 7C, 6S, 5S, 2S Rank: High Card
+Player 2: QS, TC, 5H, 2H, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:711
+Player 1: AS, TS, 7H, 6S, 5H Rank: High Card
+Player 2: KD, 9S, 9D, 3C, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:712
+Player 1: QS, JS, 4S, 4H, 3S Rank: One Pair
+Player 2: AC, 9D, 7C, 6S, 2S Rank: High Card
+Player 1 wins
+______________________________Game:713
+Player 1: JH, 8C, 7C, 5H, 2H Rank: High Card
+Player 2: KH, QS, QH, QC, 5D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:714
+Player 1: KC, TD, 7C, 3S, 3H Rank: One Pair
+Player 2: KH, 8S, 8D, 8C, 5H Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:715
+Player 1: KH, JD, TS, 4H, 3C Rank: High Card
+Player 2: AS, QC, JS, 7H, 5S Rank: High Card
+Player 2 wins
+______________________________Game:716
+Player 1: AH, 9D, 8D, 4D, 2C Rank: High Card
+Player 2: KC, 6S, 6H, 6C, 2D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:717
+Player 1: 9D, 7H, 6H, 3S, 2S Rank: High Card
+Player 2: KH, KD, 8H, 4D, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:718
+Player 1: AC, KH, JH, TC, 9C Rank: High Card
+Player 2: JD, TD, 5H, 4D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:719
+Player 1: AS, 9D, 7S, 4H, 4C Rank: One Pair
+Player 2: KH, QS, 9S, 7D, 2S Rank: High Card
+Player 1 wins
+______________________________Game:720
+Player 1: KS, 8S, 8D, 8C, 3S Rank: Three Of A Kind
+Player 2: KH, JC, 5D, 5C, 2H Rank: One Pair
+Player 1 wins
+______________________________Game:721
+Player 1: KC, QH, 8S, 4D, 2C Rank: High Card
+Player 2: AC, QC, JS, 9D, 6H Rank: High Card
+Player 2 wins
+______________________________Game:722
+Player 1: JS, JD, 8S, 8C, 7C Rank: Two Pairs
+Player 2: AC, 9C, 6S, 4S, 4C Rank: One Pair
+Player 1 wins
+______________________________Game:723
+Player 1: QH, JC, 7D, 5D, 2C Rank: High Card
+Player 2: JS, JH, 8S, 4C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:724
+Player 1: JS, JH, TS, 7S, 4C Rank: One Pair
+Player 2: KH, KC, QD, 5H, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:725
+Player 1: QD, 8D, 8C, 6S, 2D Rank: One Pair
+Player 2: AC, QH, TD, 9D, 5S Rank: High Card
+Player 1 wins
+______________________________Game:726
+Player 1: QH, QC, JS, 3D, 3C Rank: Two Pairs
+Player 2: KH, 8S, 7H, 5C, 4H Rank: High Card
+Player 1 wins
+______________________________Game:727
+Player 1: JC, 8S, 7C, 5S, 2C Rank: High Card
+Player 2: KC, QC, 5D, 3H, 2H Rank: High Card
+Player 2 wins
+______________________________Game:728
+Player 1: KD, 8D, 6H, 5S, 4H Rank: High Card
+Player 2: AH, QH, QD, 6D, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:729
+Player 1: KS, 7S, 6C, 4D, 2S Rank: High Card
+Player 2: AC, QS, JD, TS, 5H Rank: High Card
+Player 2 wins
+______________________________Game:730
+Player 1: QS, TC, 7C, 5D, 2D Rank: High Card
+Player 2: AC, KC, QC, JS, 6C Rank: High Card
+Player 2 wins
+______________________________Game:731
+Player 1: KS, TS, 4D, 3H, 2C Rank: High Card
+Player 2: AD, 9S, 8S, 7S, 4H Rank: High Card
+Player 2 wins
+______________________________Game:732
+Player 1: QH, QD, 9H, 5H, 4H Rank: One Pair
+Player 2: AD, KH, JC, 4D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:733
+Player 1: AC, KC, 8D, 6D, 4D Rank: High Card
+Player 2: KH, JD, 4C, 2D, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:734
+Player 1: AH, 9H, 3H, 2D, 2C Rank: One Pair
+Player 2: KS, TC, 9C, 7D, 6D Rank: High Card
+Player 1 wins
+______________________________Game:735
+Player 1: KD, 8C, 7C, 5C, 3H Rank: High Card
+Player 2: AS, AH, 5H, 4S, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:736
+Player 1: KD, JD, TH, 4H, 3H Rank: High Card
+Player 2: AC, KH, TC, 5C, 3S Rank: High Card
+Player 2 wins
+______________________________Game:737
+Player 1: AH, QC, 7S, 7H, 6D Rank: One Pair
+Player 2: AS, JD, TD, 6H, 2D Rank: High Card
+Player 1 wins
+______________________________Game:738
+Player 1: JH, TC, 9S, 7H, 5D Rank: High Card
+Player 2: AS, KH, JC, 7D, 5S Rank: High Card
+Player 2 wins
+______________________________Game:739
+Player 1: AD, TH, 8C, 6H, 2H Rank: High Card
+Player 2: KD, QD, 9H, 6S, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:740
+Player 1: KC, QH, 9D, 4D, 3S Rank: High Card
+Player 2: JS, JH, 9H, 4H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:741
+Player 1: KH, JC, TC, 7H, 4H Rank: High Card
+Player 2: QS, 9S, 7S, 7D, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:742
+Player 1: AD, JH, 7H, 7D, 6C Rank: One Pair
+Player 2: QH, 4H, 4D, 3S, 3H Rank: Two Pairs
+Player 2 wins
+______________________________Game:743
+Player 1: AS, JD, 6C, 5C, 2H Rank: High Card
+Player 2: QC, JH, TC, 4D, 3C Rank: High Card
+Player 1 wins
+______________________________Game:744
+Player 1: AC, JD, 6H, 4C, 3H Rank: High Card
+Player 2: AD, JC, 9H, 7H, 7D Rank: One Pair
+Player 2 wins
+______________________________Game:745
+Player 1: TS, TC, 8C, 4H, 2C Rank: One Pair
+Player 2: KS, JD, 9S, 6S, 2H Rank: High Card
+Player 1 wins
+______________________________Game:746
+Player 1: QS, QC, 9S, 4C, 3H Rank: One Pair
+Player 2: KC, 9H, 9D, 9C, 6D Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:747
+Player 1: AD, QH, 8C, 5C, 2C Rank: High Card
+Player 2: QD, JC, TH, 8H, 8D Rank: One Pair
+Player 2 wins
+______________________________Game:748
+Player 1: QD, QC, 9C, 2S, 2C Rank: Two Pairs
+Player 2: QS, JH, 8D, 4D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:749
+Player 1: 9D, 7S, 7C, 3S, 2C Rank: One Pair
+Player 2: JC, TD, TC, 9H, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:750
+Player 1: TS, 8H, 5C, 4C, 3C Rank: High Card
+Player 2: 8D, 7C, 6S, 4H, 2C Rank: High Card
+Player 1 wins
+______________________________Game:751
+Player 1: KS, TC, 7H, 4H, 2H Rank: High Card
+Player 2: AS, AH, QS, 3S, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:752
+Player 1: 8C, 4S, 2H, 2D, 2C Rank: Three Of A Kind
+Player 2: 7D, 6S, 5S, 4C, 3S Rank: Straight
+Player 2 wins
+______________________________Game:753
+Player 1: QC, TH, TD, 5D, 3C Rank: One Pair
+Player 2: AS, KS, KD, KC, QS Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:754
+Player 1: AH, KS, KD, 9H, 4D Rank: One Pair
+Player 2: JC, 7S, 6H, 5C, 4C Rank: High Card
+Player 1 wins
+______________________________Game:755
+Player 1: KC, QS, TC, 5C, 4H Rank: High Card
+Player 2: AH, QH, JC, 9S, 2H Rank: High Card
+Player 2 wins
+______________________________Game:756
+Player 1: 9H, 5H, 4S, 3H, 3C Rank: One Pair
+Player 2: QD, QC, JH, 8H, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:757
+Player 1: AS, 7H, 5D, 3D, 2C Rank: High Card
+Player 2: JH, 7D, 6S, 6H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:758
+Player 1: AH, JS, JD, 9H, 9C Rank: Two Pairs
+Player 2: KS, QH, 8S, 8H, 3H Rank: One Pair
+Player 1 wins
+______________________________Game:759
+Player 1: AC, QC, TS, 4D, 3S Rank: High Card
+Player 2: AH, AD, 9H, 8S, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:760
+Player 1: QS, 9S, 9C, 7H, 3H Rank: One Pair
+Player 2: AH, AC, JS, JH, 5H Rank: Two Pairs
+Player 2 wins
+______________________________Game:761
+Player 1: AC, JD, 8D, 3C, 2H Rank: High Card
+Player 2: 9C, 8H, 7H, 5S, 4D Rank: High Card
+Player 1 wins
+______________________________Game:762
+Player 1: JS, JH, 9H, 7C, 6C Rank: One Pair
+Player 2: 9S, 9D, 8C, 7H, 4H Rank: One Pair
+Player 1 wins
+______________________________Game:763
+Player 1: AS, 9S, 6H, 4D, 2D Rank: High Card
+Player 2: AD, QD, JS, JH, 9H Rank: One Pair
+Player 2 wins
+______________________________Game:764
+Player 1: AH, KH, JH, 7S, 6H Rank: High Card
+Player 2: TD, 7H, 6S, 5S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:765
+Player 1: JH, 8H, 6S, 5S, 5H Rank: One Pair
+Player 2: QC, TC, 9S, 9D, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:766
+Player 1: KD, 7D, 5H, 3H, 2C Rank: High Card
+Player 2: AS, QD, JS, 7H, 4D Rank: High Card
+Player 2 wins
+______________________________Game:767
+Player 1: QH, TS, TH, 8H, 6C Rank: One Pair
+Player 2: 9D, 9C, 5H, 3H, 3C Rank: Two Pairs
+Player 2 wins
+______________________________Game:768
+Player 1: AD, KH, JS, 5D, 3H Rank: High Card
+Player 2: AS, AC, KC, 9S, 5C Rank: One Pair
+Player 2 wins
+______________________________Game:769
+Player 1: KH, QS, JC, 8C, 2C Rank: High Card
+Player 2: AH, KC, TC, 6D, 2D Rank: High Card
+Player 2 wins
+______________________________Game:770
+Player 1: 9D, 7C, 4D, 3H, 2S Rank: High Card
+Player 2: KS, KH, 8D, 7D, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:771
+Player 1: AC, JH, TC, 9H, 2S Rank: High Card
+Player 2: QC, 8H, 5S, 3S, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:772
+Player 1: AS, KD, 8H, 4C, 3S Rank: High Card
+Player 2: QH, JH, TS, 7C, 3H Rank: High Card
+Player 1 wins
+______________________________Game:773
+Player 1: JH, 9D, 7S, 7H, 6D Rank: One Pair
+Player 2: AS, 6C, 4C, 3S, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:774
+Player 1: 8S, 4S, 4C, 2H, 2C Rank: Two Pairs
+Player 2: KC, QD, QC, 8C, 5H Rank: One Pair
+Player 1 wins
+______________________________Game:775
+Player 1: QS, QC, 6C, 3S, 3H Rank: Two Pairs
+Player 2: 9D, 6S, 5D, 2D, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:776
+Player 1: JH, 8D, 3H, 2S, 2H Rank: One Pair
+Player 2: AD, 7S, 6C, 5C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:777
+Player 1: QH, JS, 9H, 8S, 5D Rank: High Card
+Player 2: AD, TS, 7S, 6S, 2H Rank: High Card
+Player 2 wins
+______________________________Game:778
+Player 1: QC, 9S, 7H, 6D, 5H Rank: High Card
+Player 2: KC, JD, 7D, 5C, 4H Rank: High Card
+Player 2 wins
+______________________________Game:779
+Player 1: QC, 9H, 9C, 5S, 4D Rank: One Pair
+Player 2: KS, 7C, 6S, 4C, 2S Rank: High Card
+Player 1 wins
+______________________________Game:780
+Player 1: 9H, 8D, 7C, 4H, 3S Rank: High Card
+Player 2: JS, 8H, 7S, 6H, 5C Rank: High Card
+Player 2 wins
+______________________________Game:781
+Player 1: JS, TD, 6H, 4H, 2D Rank: High Card
+Player 2: KC, JC, TH, 5H, 4D Rank: High Card
+Player 2 wins
+______________________________Game:782
+Player 1: AC, TH, 8D, 7C, 3H Rank: High Card
+Player 2: KC, 9S, 4D, 4C, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:783
+Player 1: KD, QS, 9C, 7S, 3D Rank: High Card
+Player 2: AD, KS, TS, 4H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:784
+Player 1: QH, 9C, 8H, 7D, 2S Rank: High Card
+Player 2: KS, KD, 7H, 5D, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:785
+Player 1: JC, 9C, 6S, 2S, 2H Rank: One Pair
+Player 2: QC, JH, TC, 6C, 5C Rank: High Card
+Player 1 wins
+______________________________Game:786
+Player 1: AC, KC, 8S, 8H, 7S Rank: One Pair
+Player 2: QS, JC, 6S, 6H, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:787
+Player 1: JS, JH, 8C, 4S, 2D Rank: One Pair
+Player 2: AD, 8H, 6H, 6D, 5D Rank: One Pair
+Player 1 wins
+______________________________Game:788
+Player 1: 9H, 7D, 6H, 4H, 2S Rank: High Card
+Player 2: AS, AC, 8H, 7C, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:789
+Player 1: JS, 6D, 5H, 4S, 3C Rank: High Card
+Player 2: QH, 9C, 6S, 2S, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:790
+Player 1: 9S, 6S, 5S, 4C, 3D Rank: High Card
+Player 2: QS, QD, TC, 8S, 8D Rank: Two Pairs
+Player 2 wins
+______________________________Game:791
+Player 1: AH, 9H, 9C, 5S, 3D Rank: One Pair
+Player 2: AD, JC, 7D, 3S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:792
+Player 1: AS, TC, 7H, 6S, 3C Rank: High Card
+Player 2: KH, KC, 9H, 7S, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:793
+Player 1: TC, 8H, 6S, 5H, 3S Rank: High Card
+Player 2: AC, JH, 8C, 7D, 2S Rank: High Card
+Player 2 wins
+______________________________Game:794
+Player 1: QD, JC, 9D, 9C, 3S Rank: One Pair
+Player 2: KS, 8H, 8C, 5D, 4D Rank: One Pair
+Player 1 wins
+______________________________Game:795
+Player 1: AH, JS, JD, 9D, 6D Rank: One Pair
+Player 2: 9S, 9H, 8H, 8C, 3H Rank: Two Pairs
+Player 2 wins
+______________________________Game:796
+Player 1: 8S, 6S, 4D, 4C, 2D Rank: One Pair
+Player 2: AH, AD, TC, 9H, 4S Rank: One Pair
+Player 2 wins
+______________________________Game:797
+Player 1: AC, KC, QC, TS, TH Rank: One Pair
+Player 2: 8C, 7S, 6D, 4H, 2H Rank: High Card
+Player 1 wins
+______________________________Game:798
+Player 1: QD, JS, 9D, 5S, 3C Rank: High Card
+Player 2: AH, JC, TS, 9H, 2H Rank: High Card
+Player 2 wins
+______________________________Game:799
+Player 1: QH, 9C, 5D, 4D, 3H Rank: High Card
+Player 2: JC, 7D, 5H, 4S, 3S Rank: High Card
+Player 1 wins
+______________________________Game:800
+Player 1: TH, 8S, 7C, 3H, 2H Rank: High Card
+Player 2: AC, JS, JD, TS, 8D Rank: One Pair
+Player 2 wins
+______________________________Game:801
+Player 1: KC, JD, TD, 9C, 2H Rank: High Card
+Player 2: AD, 8C, 5S, 2S, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:802
+Player 1: KD, 7C, 5H, 4D, 3D Rank: High Card
+Player 2: QH, QD, TC, 7D, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:803
+Player 1: KD, KC, 7H, 5S, 2C Rank: One Pair
+Player 2: AH, QH, QC, 7S, 6H Rank: One Pair
+Player 1 wins
+______________________________Game:804
+Player 1: AC, 6H, 5H, 5C, 2C Rank: One Pair
+Player 2: TD, 9C, 7C, 2S, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:805
+Player 1: AH, 9D, 7C, 4D, 3D Rank: High Card
+Player 2: KS, JD, 8C, 4H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:806
+Player 1: QH, JS, TH, 8H, 3C Rank: High Card
+Player 2: AS, QS, QC, 4C, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:807
+Player 1: JH, 7S, 6D, 5H, 4D Rank: High Card
+Player 2: KH, JS, 7D, 6H, 3C Rank: High Card
+Player 2 wins
+______________________________Game:808
+Player 1: QD, 8S, 7D, 2H, 2C Rank: One Pair
+Player 2: JC, 8C, 7C, 5H, 2S Rank: High Card
+Player 1 wins
+______________________________Game:809
+Player 1: QH, TC, 9D, 8S, 2H Rank: High Card
+Player 2: AD, QD, 8D, 7C, 6S Rank: High Card
+Player 2 wins
+______________________________Game:810
+Player 1: AD, 9H, 7C, 3S, 2H Rank: High Card
+Player 2: JD, TS, 9S, 4C, 2D Rank: High Card
+Player 1 wins
+______________________________Game:811
+Player 1: AS, QC, 4H, 3S, 2C Rank: High Card
+Player 2: TD, TC, 8S, 8H, 7S Rank: Two Pairs
+Player 2 wins
+______________________________Game:812
+Player 1: JH, TH, TD, 4D, 3S Rank: One Pair
+Player 2: QS, 5S, 5D, 4H, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:813
+Player 1: QH, QD, TC, 8C, 6D Rank: One Pair
+Player 2: QC, 9S, 9D, 4S, 4H Rank: Two Pairs
+Player 2 wins
+______________________________Game:814
+Player 1: JS, JD, 9D, 8C, 6H Rank: One Pair
+Player 2: AD, QC, TD, 6S, 3H Rank: High Card
+Player 1 wins
+______________________________Game:815
+Player 1: KC, TD, 8S, 7C, 3D Rank: High Card
+Player 2: 9H, 8D, 7D, 4S, 3S Rank: High Card
+Player 1 wins
+______________________________Game:816
+Player 1: KD, 9D, 6C, 4S, 3D Rank: High Card
+Player 2: AC, KS, KC, TC, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:817
+Player 1: QH, JS, 7C, 6S, 3D Rank: High Card
+Player 2: KD, 8C, 6H, 6D, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:818
+Player 1: JD, 8S, 5S, 4H, 2S Rank: High Card
+Player 2: AC, TS, 6S, 5C, 2D Rank: High Card
+Player 2 wins
+______________________________Game:819
+Player 1: 8C, 5S, 5H, 4S, 3C Rank: One Pair
+Player 2: AS, 8D, 7C, 3H, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:820
+Player 1: AS, AD, TS, 7C, 3H Rank: One Pair
+Player 2: QS, JC, 7D, 6H, 6C Rank: One Pair
+Player 1 wins
+______________________________Game:821
+Player 1: AC, QH, 9S, 4C, 3S Rank: High Card
+Player 2: TS, 9H, 5H, 5D, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:822
+Player 1: TD, 7S, 7H, 6C, 5C Rank: One Pair
+Player 2: AD, JD, 5S, 2S, 2H Rank: One Pair
+Player 1 wins
+______________________________Game:823
+Player 1: KC, JD, 7D, 6C, 3S Rank: High Card
+Player 2: KH, QS, TS, 8S, 8D Rank: One Pair
+Player 2 wins
+______________________________Game:824
+Player 1: QS, TH, 8S, 8D, 6C Rank: One Pair
+Player 2: AH, AC, 9S, 8H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:825
+Player 1: KH, QH, TD, 8S, 7H Rank: High Card
+Player 2: AS, AH, JD, 4D, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:826
+Player 1: JC, TS, 3D, 2S, 2H Rank: One Pair
+Player 2: KH, QC, JS, JH, 6C Rank: One Pair
+Player 2 wins
+______________________________Game:827
+Player 1: KC, TH, 7S, 6H, 2D Rank: High Card
+Player 2: QS, TC, 9D, 8C, 2S Rank: High Card
+Player 1 wins
+______________________________Game:828
+Player 1: KH, 9D, 8H, 6S, 3C Rank: High Card
+Player 2: TH, 6D, 5D, 2H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:829
+Player 1: AD, TC, 7D, 6H, 4D Rank: High Card
+Player 2: TS, TD, 9H, 8S, 7S Rank: One Pair
+Player 2 wins
+______________________________Game:830
+Player 1: JS, JD, JC, 6D, 2H Rank: Three Of A Kind
+Player 2: AC, KH, 8D, 6C, 3D Rank: High Card
+Player 1 wins
+______________________________Game:831
+Player 1: KH, JD, 9S, 5D, 4H Rank: High Card
+Player 2: QS, 7S, 5C, 4C, 3H Rank: High Card
+Player 1 wins
+______________________________Game:832
+Player 1: JD, 5D, 4H, 3S, 3C Rank: One Pair
+Player 2: KH, QS, QH, 7S, 4D Rank: One Pair
+Player 2 wins
+______________________________Game:833
+Player 1: AH, QD, JD, TS, 8S Rank: High Card
+Player 2: 6H, 5S, 4C, 3S, 2C Rank: Straight
+Player 2 wins
+______________________________Game:834
+Player 1: AS, QS, JD, 8D, 3D Rank: High Card
+Player 2: KS, QC, TH, 7C, 6S Rank: High Card
+Player 1 wins
+______________________________Game:835
+Player 1: QC, 8C, 7S, 7H, 2H Rank: One Pair
+Player 2: AC, KH, TH, 6D, 2D Rank: High Card
+Player 1 wins
+______________________________Game:836
+Player 1: KH, 7H, 7D, 6C, 5S Rank: One Pair
+Player 2: AH, 8C, 7S, 5C, 3D Rank: High Card
+Player 1 wins
+______________________________Game:837
+Player 1: AD, KD, 7D, 6C, 3C Rank: High Card
+Player 2: KS, 8C, 4S, 4D, 2D Rank: One Pair
+Player 2 wins
+______________________________Game:838
+Player 1: 8D, 7C, 5S, 2S, 2D Rank: One Pair
+Player 2: AH, AD, TD, 9D, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:839
+Player 1: AD, KS, JH, 4S, 3C Rank: High Card
+Player 2: TH, 9C, 8C, 7C, 5C Rank: High Card
+Player 1 wins
+______________________________Game:840
+Player 1: AS, JD, TD, 7C, 4D Rank: High Card
+Player 2: QH, 9S, 8C, 5H, 3C Rank: High Card
+Player 1 wins
+______________________________Game:841
+Player 1: 9S, 9C, 8S, 6S, 3H Rank: One Pair
+Player 2: AH, KS, QD, JH, 5H Rank: High Card
+Player 1 wins
+______________________________Game:842
+Player 1: QC, 9C, 5S, 4H, 2H Rank: High Card
+Player 2: AS, TD, 9D, 8C, 7D Rank: High Card
+Player 2 wins
+______________________________Game:843
+Player 1: KD, TC, 9D, 8C, 2C Rank: High Card
+Player 2: KH, QC, 7S, 3D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:844
+Player 1: AS, QS, 5S, 4D, 4C Rank: One Pair
+Player 2: KS, QH, JD, 9D, 6S Rank: High Card
+Player 1 wins
+______________________________Game:845
+Player 1: AH, 6D, 6C, 5H, 4C Rank: One Pair
+Player 2: TS, 9H, 7D, 5S, 3D Rank: High Card
+Player 1 wins
+______________________________Game:846
+Player 1: QS, JD, 9C, 8D, 7C Rank: High Card
+Player 2: AC, KH, 6S, 6C, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:847
+Player 1: JH, 9S, 8H, 6D, 5D Rank: High Card
+Player 2: AS, QC, 7H, 6S, 3S Rank: High Card
+Player 2 wins
+______________________________Game:848
+Player 1: AD, QD, JH, 5C, 2H Rank: High Card
+Player 2: AS, AH, KC, 4H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:849
+Player 1: JH, 9C, 6H, 2D, 2C Rank: One Pair
+Player 2: KC, JS, 9H, 6D, 5D Rank: High Card
+Player 1 wins
+______________________________Game:850
+Player 1: KD, TH, 9D, 7D, 3H Rank: High Card
+Player 2: AS, AD, QC, 6S, 6H Rank: Two Pairs
+Player 2 wins
+______________________________Game:851
+Player 1: KC, JD, 7D, 4H, 3H Rank: High Card
+Player 2: QS, JS, TH, 3D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:852
+Player 1: QD, 8C, 5H, 4C, 3H Rank: High Card
+Player 2: AS, AD, JD, 8H, 6H Rank: One Pair
+Player 2 wins
+______________________________Game:853
+Player 1: KD, QC, TH, 8S, 5D Rank: High Card
+Player 2: JS, TS, 7D, 5S, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:854
+Player 1: KC, QS, 9D, 7D, 3H Rank: High Card
+Player 2: AH, TS, 7S, 6D, 3C Rank: High Card
+Player 2 wins
+______________________________Game:855
+Player 1: AH, QC, 7H, 7C, 4H Rank: One Pair
+Player 2: AC, TH, 6D, 5D, 4D Rank: High Card
+Player 1 wins
+______________________________Game:856
+Player 1: KD, 8H, 4H, 3C, 2S Rank: High Card
+Player 2: JH, JD, TC, 6C, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:857
+Player 1: JS, 8C, 4S, 4H, 3D Rank: One Pair
+Player 2: KD, QS, JH, TD, 7S Rank: High Card
+Player 1 wins
+______________________________Game:858
+Player 1: KD, QC, 7H, 7C, 4D Rank: One Pair
+Player 2: AD, KH, TD, TC, 6S Rank: One Pair
+Player 2 wins
+______________________________Game:859
+Player 1: KC, 9H, 5H, 4D, 3H Rank: High Card
+Player 2: AD, QD, 6S, 6H, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:860
+Player 1: QH, TS, TH, 7C, 6H Rank: One Pair
+Player 2: KC, TD, 6S, 5S, 2C Rank: High Card
+Player 1 wins
+______________________________Game:861
+Player 1: JH, JD, 7C, 5S, 4D Rank: One Pair
+Player 2: AC, KH, KD, 7D, 4H Rank: One Pair
+Player 2 wins
+______________________________Game:862
+Player 1: 8H, 8D, 7D, 6C, 5C Rank: One Pair
+Player 2: QD, JH, JD, TH, 8S Rank: One Pair
+Player 2 wins
+______________________________Game:863
+Player 1: 9D, 8D, 7D, 7C, 6C Rank: One Pair
+Player 2: AS, KD, QH, JH, 5C Rank: High Card
+Player 1 wins
+______________________________Game:864
+Player 1: 9S, 8C, 4C, 3C, 2C Rank: High Card
+Player 2: KS, JH, 8D, 4H, 2D Rank: High Card
+Player 2 wins
+______________________________Game:865
+Player 1: KH, JH, 8H, 7S, 6C Rank: High Card
+Player 2: AH, 9D, 6D, 3H, 2D Rank: High Card
+Player 2 wins
+______________________________Game:866
+Player 1: TC, 9C, 8D, 7H, 4D Rank: High Card
+Player 2: KS, KD, TH, TD, 3C Rank: Two Pairs
+Player 2 wins
+______________________________Game:867
+Player 1: AS, QD, JD, 9H, 8D Rank: High Card
+Player 2: KD, 9D, 9C, 2S, 2C Rank: Two Pairs
+Player 2 wins
+______________________________Game:868
+Player 1: KS, 8D, 7H, 5C, 3H Rank: High Card
+Player 2: QH, 9H, 8C, 5H, 2D Rank: High Card
+Player 1 wins
+______________________________Game:869
+Player 1: QD, TH, 6D, 6C, 2D Rank: One Pair
+Player 2: AD, KC, 4C, 3S, 3H Rank: One Pair
+Player 1 wins
+______________________________Game:870
+Player 1: JS, 9D, 4H, 3H, 3C Rank: One Pair
+Player 2: QH, QC, JC, TC, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:871
+Player 1: 6H, 5C, 3S, 3D, 3C Rank: Three Of A Kind
+Player 2: QH, JC, 7S, 5S, 2S Rank: High Card
+Player 1 wins
+______________________________Game:872
+Player 1: AC, 8C, 5D, 5C, 4D Rank: One Pair
+Player 2: QD, 4H, 3H, 3C, 2S Rank: One Pair
+Player 1 wins
+______________________________Game:873
+Player 1: AH, KD, TD, 9C, 2C Rank: High Card
+Player 2: QD, QC, JS, 6S, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:874
+Player 1: QS, TC, 8C, 4H, 3S Rank: High Card
+Player 2: AD, JS, JC, 7C, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:875
+Player 1: KS, JC, 9C, 5H, 4D Rank: High Card
+Player 2: TS, TD, 9S, 9H, 8S Rank: Two Pairs
+Player 2 wins
+______________________________Game:876
+Player 1: AS, AC, QD, TS, 7D Rank: One Pair
+Player 2: AH, TD, 8H, 6H, 2C Rank: High Card
+Player 1 wins
+______________________________Game:877
+Player 1: AD, 9H, 8C, 6S, 4S Rank: High Card
+Player 2: KH, 9D, 8S, 8D, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:878
+Player 1: KH, QS, 7S, 4D, 2D Rank: High Card
+Player 2: AD, JS, JC, 4C, 3C Rank: One Pair
+Player 2 wins
+______________________________Game:879
+Player 1: KC, QS, TD, 9S, 7H Rank: High Card
+Player 2: AC, JS, JH, TH, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:880
+Player 1: AC, QS, 7C, 6D, 2S Rank: High Card
+Player 2: AS, KS, KH, 6S, 5S Rank: One Pair
+Player 2 wins
+______________________________Game:881
+Player 1: KH, QS, 8H, 6D, 3C Rank: High Card
+Player 2: 9D, 9C, 6C, 5C, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:882
+Player 1: JS, 7D, 6H, 4C, 2C Rank: High Card
+Player 2: AC, QD, JC, TD, 3H Rank: High Card
+Player 2 wins
+______________________________Game:883
+Player 1: QC, JD, 8H, 4H, 4C Rank: One Pair
+Player 2: KS, KD, KC, 7S, 5C Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:884
+Player 1: QD, 6D, 3H, 2S, 2D Rank: One Pair
+Player 2: AS, TH, 7H, 6S, 5S Rank: High Card
+Player 1 wins
+______________________________Game:885
+Player 1: AS, 8S, 8D, 6D, 2C Rank: One Pair
+Player 2: AH, QD, JC, TD, 8H Rank: High Card
+Player 1 wins
+______________________________Game:886
+Player 1: QH, TD, 9H, 9C, 2D Rank: One Pair
+Player 2: TC, 8H, 5C, 3D, 2H Rank: High Card
+Player 1 wins
+______________________________Game:887
+Player 1: KH, KC, 8S, 3D, 2S Rank: One Pair
+Player 2: JH, TS, TC, 6S, 4D Rank: One Pair
+Player 1 wins
+______________________________Game:888
+Player 1: AC, KC, QS, 9H, 9D Rank: One Pair
+Player 2: AH, 8D, 6H, 5D, 4D Rank: High Card
+Player 1 wins
+______________________________Game:889
+Player 1: QS, 9S, 7C, 5C, 4H Rank: High Card
+Player 2: AD, JS, 8S, 7D, 2H Rank: High Card
+Player 2 wins
+______________________________Game:890
+Player 1: AS, AC, 9S, 3D, 2C Rank: One Pair
+Player 2: KH, JC, 3H, 2H, 2D Rank: One Pair
+Player 1 wins
+______________________________Game:891
+Player 1: KH, QH, JD, TC, 7H Rank: High Card
+Player 2: KS, 8H, 8D, 5S, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:892
+Player 1: 7H, 5H, 3S, 2S, 2H Rank: One Pair
+Player 2: AS, KD, QS, 9H, 3C Rank: High Card
+Player 1 wins
+______________________________Game:893
+Player 1: AD, JD, 6H, 5S, 3D Rank: High Card
+Player 2: AC, 9S, 9C, 6D, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:894
+Player 1: AC, 9C, 5D, 3D, 2D Rank: High Card
+Player 2: AD, 6S, 6C, 4S, 2S Rank: One Pair
+Player 2 wins
+______________________________Game:895
+Player 1: QC, 6S, 4C, 3H, 2D Rank: High Card
+Player 2: KC, QH, QD, JH, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:896
+Player 1: QC, 9S, 8S, 4D, 3C Rank: High Card
+Player 2: QS, QD, 8H, 5C, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:897
+Player 1: KD, 7H, 6S, 6D, 3S Rank: One Pair
+Player 2: KH, JC, 6C, 5C, 2H Rank: High Card
+Player 1 wins
+______________________________Game:898
+Player 1: TC, 9S, 8H, 6S, 3S Rank: High Card
+Player 2: AD, TS, 8S, 7S, 2D Rank: High Card
+Player 2 wins
+______________________________Game:899
+Player 1: 9C, 6H, 5C, 3H, 3C Rank: One Pair
+Player 2: QH, QD, JC, TD, 8H Rank: One Pair
+Player 2 wins
+______________________________Game:900
+Player 1: QD, JS, TD, 5D, 3C Rank: High Card
+Player 2: AS, KH, TH, 9H, 2C Rank: High Card
+Player 2 wins
+______________________________Game:901
+Player 1: JD, TC, 9S, 5C, 3D Rank: High Card
+Player 2: AD, KC, QH, 9H, 5H Rank: High Card
+Player 2 wins
+______________________________Game:902
+Player 1: TC, 8H, 7H, 4H, 3H Rank: High Card
+Player 2: AC, TD, 7C, 6S, 2S Rank: High Card
+Player 2 wins
+______________________________Game:903
+Player 1: QS, JC, 9D, 5D, 3C Rank: High Card
+Player 2: KS, JH, 6C, 4D, 2S Rank: High Card
+Player 2 wins
+______________________________Game:904
+Player 1: TS, 9S, 7H, 6S, 3C Rank: High Card
+Player 2: KD, 9C, 6D, 4C, 3D Rank: High Card
+Player 2 wins
+______________________________Game:905
+Player 1: AH, AC, 9H, 7H, 2D Rank: One Pair
+Player 2: QC, JH, 7C, 3S, 2S Rank: High Card
+Player 1 wins
+______________________________Game:906
+Player 1: AC, QD, 9H, 3C, 2H Rank: High Card
+Player 2: AS, KH, KD, 8S, 8C Rank: Two Pairs
+Player 2 wins
+______________________________Game:907
+Player 1: TH, TD, 7S, 6D, 2D Rank: One Pair
+Player 2: JD, 8D, 5S, 4D, 2H Rank: High Card
+Player 1 wins
+______________________________Game:908
+Player 1: KD, QS, QH, JD, 8S Rank: One Pair
+Player 2: KC, JH, 5H, 4D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:909
+Player 1: KH, QC, 8H, 6D, 3C Rank: High Card
+Player 2: AH, TD, 7D, 3S, 2D Rank: High Card
+Player 2 wins
+______________________________Game:910
+Player 1: QH, 9H, 6S, 5S, 4S Rank: High Card
+Player 2: TS, TH, 7S, 6D, 6C Rank: Two Pairs
+Player 2 wins
+______________________________Game:911
+Player 1: QS, JS, 6D, 6C, 4C Rank: One Pair
+Player 2: TS, 9C, 8S, 8D, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:912
+Player 1: AS, JS, 7S, 5C, 2C Rank: High Card
+Player 2: AH, AD, TC, 5S, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:913
+Player 1: KD, TS, 9D, 9C, 6C Rank: One Pair
+Player 2: QD, JC, 4H, 2S, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:914
+Player 1: KC, QS, TC, 9H, 3H Rank: High Card
+Player 2: AD, KS, TH, 4H, 3C Rank: High Card
+Player 2 wins
+______________________________Game:915
+Player 1: KH, KD, 9D, 9C, 2H Rank: Two Pairs
+Player 2: KC, JH, TC, 7S, 2D Rank: High Card
+Player 1 wins
+______________________________Game:916
+Player 1: AS, KC, 8C, 7C, 3S Rank: High Card
+Player 2: QH, 9S, 9C, 5D, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:917
+Player 1: TD, 8C, 4C, 2H, 2D Rank: One Pair
+Player 2: QC, TC, 7D, 5D, 2C Rank: High Card
+Player 1 wins
+______________________________Game:918
+Player 1: KS, QH, TD, 6C, 4D Rank: High Card
+Player 2: AD, KH, 8D, 7C, 5D Rank: High Card
+Player 2 wins
+______________________________Game:919
+Player 1: 9S, 8S, 8C, 4C, 2S Rank: One Pair
+Player 2: QD, 7H, 7C, 6H, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:920
+Player 1: QH, TS, 8S, 6C, 5H Rank: High Card
+Player 2: 5C, 4S, 3C, 2S, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:921
+Player 1: JC, 8S, 6S, 3S, 2H Rank: High Card
+Player 2: 9D, 8C, 7H, 3H, 2S Rank: High Card
+Player 1 wins
+______________________________Game:922
+Player 1: AC, QC, 9C, 8H, 2C Rank: High Card
+Player 2: JD, 6S, 4H, 4C, 3S Rank: One Pair
+Player 2 wins
+______________________________Game:923
+Player 1: 9S, 7D, 4C, 3S, 3H Rank: One Pair
+Player 2: JC, TC, 8H, 5H, 3D Rank: High Card
+Player 1 wins
+______________________________Game:924
+Player 1: KD, QH, 9S, 2S, 2D Rank: One Pair
+Player 2: AD, QD, 9H, 9C, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:925
+Player 1: KS, JC, 9S, 8D, 2D Rank: High Card
+Player 2: KC, JD, TH, 4S, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:926
+Player 1: KH, TS, 6D, 5C, 4D Rank: High Card
+Player 2: AS, AD, KD, 9H, 5H Rank: One Pair
+Player 2 wins
+______________________________Game:927
+Player 1: QD, JS, 7C, 6D, 5D Rank: High Card
+Player 2: QS, QH, TH, 5H, 5C Rank: Two Pairs
+Player 2 wins
+______________________________Game:928
+Player 1: KH, QH, JH, 9D, 5H Rank: High Card
+Player 2: TH, TC, 6C, 4D, 4C Rank: Two Pairs
+Player 2 wins
+______________________________Game:929
+Player 1: AS, KH, KD, TS, 9D Rank: One Pair
+Player 2: 9C, 8H, 7S, 5S, 4D Rank: High Card
+Player 1 wins
+______________________________Game:930
+Player 1: AS, KH, 9D, 7D, 2S Rank: High Card
+Player 2: AH, TS, TH, 7C, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:931
+Player 1: AC, KS, 9S, 8S, 4D Rank: High Card
+Player 2: QH, TH, 9D, 8D, 5C Rank: High Card
+Player 1 wins
+______________________________Game:932
+Player 1: QS, TC, 8C, 5D, 5C Rank: One Pair
+Player 2: 8D, 4C, 3S, 3D, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:933
+Player 1: KS, KC, 9D, 3C, 2D Rank: One Pair
+Player 2: KH, JC, 8C, 6C, 4S Rank: High Card
+Player 1 wins
+______________________________Game:934
+Player 1: AH, 8H, 7S, 7D, 6H Rank: One Pair
+Player 2: KC, QD, 6C, 4C, 3C Rank: High Card
+Player 1 wins
+______________________________Game:935
+Player 1: AS, QH, 8H, 3H, 2C Rank: High Card
+Player 2: KC, 8C, 7D, 4H, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:936
+Player 1: QD, TD, 5S, 4H, 2C Rank: High Card
+Player 2: AH, QH, JH, 8S, 4C Rank: High Card
+Player 2 wins
+______________________________Game:937
+Player 1: QS, JS, 8H, 5S, 3H Rank: High Card
+Player 2: 9H, 9C, 3S, 2S, 2C Rank: Two Pairs
+Player 2 wins
+______________________________Game:938
+Player 1: QD, JC, TS, 7S, 6H Rank: High Card
+Player 2: AC, KC, TD, 5S, 3H Rank: High Card
+Player 2 wins
+______________________________Game:939
+Player 1: AS, QS, QH, JC, 7D Rank: One Pair
+Player 2: KC, 5S, 5C, 4C, 2C Rank: One Pair
+Player 1 wins
+______________________________Game:940
+Player 1: AS, QH, JS, 4H, 3D Rank: High Card
+Player 2: JC, 9C, 8D, 7H, 2S Rank: High Card
+Player 1 wins
+______________________________Game:941
+Player 1: 9D, 5D, 4S, 4D, 2S Rank: One Pair
+Player 2: QS, 9C, 8H, 7H, 2D Rank: High Card
+Player 1 wins
+______________________________Game:942
+Player 1: JS, TS, 7H, 6D, 3H Rank: High Card
+Player 2: AC, JH, 8S, 7C, 2D Rank: High Card
+Player 2 wins
+______________________________Game:943
+Player 1: KC, JH, TC, 5H, 3C Rank: High Card
+Player 2: 9H, 9D, 8H, 5S, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:944
+Player 1: AD, KC, 9H, 8S, 5H Rank: High Card
+Player 2: AH, KS, KH, 9D, 8D Rank: One Pair
+Player 2 wins
+______________________________Game:945
+Player 1: KS, JC, 9H, 6S, 2H Rank: High Card
+Player 2: AH, QC, 9C, 5H, 3H Rank: High Card
+Player 2 wins
+______________________________Game:946
+Player 1: AD, KH, 6C, 5S, 5C Rank: One Pair
+Player 2: QC, JC, TD, 9H, 9C Rank: One Pair
+Player 2 wins
+______________________________Game:947
+Player 1: QH, JC, 5S, 5D, 2D Rank: One Pair
+Player 2: KS, QS, TS, 8H, 2H Rank: High Card
+Player 1 wins
+______________________________Game:948
+Player 1: AH, JH, 7H, 5S, 5H Rank: One Pair
+Player 2: AS, KH, TD, 8S, 3C Rank: High Card
+Player 1 wins
+______________________________Game:949
+Player 1: JD, 6H, 4C, 3D, 2C Rank: High Card
+Player 2: AH, KC, JH, 7S, 6C Rank: High Card
+Player 2 wins
+______________________________Game:950
+Player 1: AD, KS, 9D, 7S, 4C Rank: High Card
+Player 2: KC, 9C, 8H, 7D, 3S Rank: High Card
+Player 1 wins
+______________________________Game:951
+Player 1: 8H, 7H, 5H, 5C, 3C Rank: One Pair
+Player 2: KH, QC, JC, 6D, 3D Rank: High Card
+Player 1 wins
+______________________________Game:952
+Player 1: QC, 7D, 5D, 4H, 2D Rank: High Card
+Player 2: AH, AD, QH, 9H, 8H Rank: One Pair
+Player 2 wins
+______________________________Game:953
+Player 1: KD, JS, 9D, 8C, 3S Rank: High Card
+Player 2: 6D, 5D, 3C, 2S, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:954
+Player 1: TS, 8S, 6S, 6H, 3C Rank: One Pair
+Player 2: TD, 8D, 6C, 5S, 3H Rank: High Card
+Player 1 wins
+______________________________Game:955
+Player 1: KS, JH, 9C, 7C, 3D Rank: High Card
+Player 2: QS, 9S, 6H, 5S, 4H Rank: High Card
+Player 1 wins
+______________________________Game:956
+Player 1: KC, TH, 7S, 6S, 4S Rank: High Card
+Player 2: KS, KD, JH, JC, 3S Rank: Two Pairs
+Player 2 wins
+______________________________Game:957
+Player 1: QH, 7C, 6D, 3C, 2S Rank: High Card
+Player 2: AH, 8H, 7S, 5H, 2C Rank: High Card
+Player 2 wins
+______________________________Game:958
+Player 1: KH, KC, QD, 8D, 6D Rank: One Pair
+Player 2: 9D, 9C, 7H, 5C, 3D Rank: One Pair
+Player 1 wins
+______________________________Game:959
+Player 1: JS, 9S, 8S, 6H, 2D Rank: High Card
+Player 2: KC, TC, 7C, 6D, 2S Rank: High Card
+Player 2 wins
+______________________________Game:960
+Player 1: KD, KC, JH, 9C, 7H Rank: One Pair
+Player 2: 8S, 7S, 6H, 3D, 2S Rank: High Card
+Player 1 wins
+______________________________Game:961
+Player 1: 9H, 8H, 4H, 4C, 2D Rank: One Pair
+Player 2: 8S, 8D, 7H, 5S, 2H Rank: One Pair
+Player 2 wins
+______________________________Game:962
+Player 1: AD, 7S, 7C, 5S, 3C Rank: One Pair
+Player 2: KH, JC, 9H, 4D, 3D Rank: High Card
+Player 1 wins
+______________________________Game:963
+Player 1: AS, 9C, 7D, 6D, 5D Rank: High Card
+Player 2: KH, QS, QH, JC, 4C Rank: One Pair
+Player 2 wins
+______________________________Game:964
+Player 1: KD, QS, JD, 7D, 3D Rank: High Card
+Player 2: QD, QC, JS, 8S, 6D Rank: One Pair
+Player 2 wins
+______________________________Game:965
+Player 1: QH, TH, 8C, 6S, 5S Rank: High Card
+Player 2: AS, AC, JD, 9H, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:966
+Player 1: KS, QH, QC, 7S, 3C Rank: One Pair
+Player 2: AH, KC, 5D, 5C, 4C Rank: One Pair
+Player 1 wins
+______________________________Game:967
+Player 1: AH, 9D, 6C, 4H, 2C Rank: High Card
+Player 2: KD, TS, 5C, 3H, 3D Rank: One Pair
+Player 2 wins
+______________________________Game:968
+Player 1: AS, QS, JS, TD, 8S Rank: High Card
+Player 2: AC, KS, KD, 4H, 3H Rank: One Pair
+Player 2 wins
+______________________________Game:969
+Player 1: TS, 9H, 7D, 5D, 4H Rank: High Card
+Player 2: QC, 9C, 8C, 4C, 2H Rank: High Card
+Player 2 wins
+______________________________Game:970
+Player 1: KS, 9H, 7D, 4D, 2C Rank: High Card
+Player 2: AD, KD, QH, JS, 4C Rank: High Card
+Player 2 wins
+______________________________Game:971
+Player 1: AH, AD, KH, QD, 9D Rank: One Pair
+Player 2: KD, JS, JD, JC, 9H Rank: Three Of A Kind
+Player 2 wins
+______________________________Game:972
+Player 1: TS, 8S, 7S, 4S, 3C Rank: High Card
+Player 2: 7C, 6H, 5C, 4D, 2S Rank: High Card
+Player 1 wins
+______________________________Game:973
+Player 1: KD, JS, 7S, 6D, 5C Rank: High Card
+Player 2: QH, TD, 8S, 6S, 2H Rank: High Card
+Player 1 wins
+______________________________Game:974
+Player 1: QH, TD, TC, 6H, 6C Rank: Two Pairs
+Player 2: QC, 9D, 8H, 4C, 2H Rank: High Card
+Player 1 wins
+______________________________Game:975
+Player 1: TS, 6H, 4D, 3D, 2H Rank: High Card
+Player 2: 8S, 7H, 6S, 6C, 2C Rank: One Pair
+Player 2 wins
+______________________________Game:976
+Player 1: JH, JD, 9H, 9D, 3S Rank: Two Pairs
+Player 2: AH, 8S, 6S, 3H, 2C Rank: High Card
+Player 1 wins
+______________________________Game:977
+Player 1: QS, 8C, 5S, 3H, 2C Rank: High Card
+Player 2: AD, 7D, 4S, 3C, 2S Rank: High Card
+Player 2 wins
+______________________________Game:978
+Player 1: AS, QH, QC, TS, 5C Rank: One Pair
+Player 2: JS, 6S, 5H, 4S, 4C Rank: One Pair
+Player 1 wins
+______________________________Game:979
+Player 1: JH, TD, 6H, 5C, 4C Rank: High Card
+Player 2: KH, KD, QS, JS, 4H Rank: One Pair
+Player 2 wins
+__________________

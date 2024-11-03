@@ -1,0 +1,6 @@
+aabcc
+dbbca
+aadbbcbcac
+aabcc
+dbbca
+aadbbbaccc
