@@ -18,12 +18,14 @@ int cost_at(int cell) {
 struct Path {
     int score;
     int cost;
+    bool initialized;
 
-    Path(): score(0), cost(0) {}
-    Path(int score, int cost): score(score), cost(cost) {}
+    Path(): score(0), cost(0), initialized(false) {}
+    Path(int score, int cost): score(score), cost(cost), initialized(true) {}
     Path(const Path& prev, int score) {
         this->score = prev.score + score;
         this->cost = prev.cost + cost_at(score);
+        this->initialized = true;
     }
 };
 
@@ -31,7 +33,7 @@ int INF = 1<<30;
 
 class Solution {
 private:
-    vector<vector<map<int, Path>>> _cache;
+    vector<vector<vector<Path>>> _cache;
 
 public:
     Path bestPathLowerThan(vector<vector<int>>& grid, int i, int j, int k) {
@@ -51,15 +53,9 @@ public:
             return Path(-1, INF);
         }
 
-        auto cache_entry = this->_cache[i][j];
-        auto response = cache_entry.find(k);
-        if (response != cache_entry.end()) {
-            return response->second;
-        }
-
-        auto larger = cache_entry.upper_bound(k);
-        if (larger != cache_entry.end() && larger->second.score == -1) {
-            return larger->second;
+        Path cache_entry = this->_cache[i][j][k];
+        if (cache_entry.initialized) {
+            return cache_entry;
         }
 
         int currentGridCost = cost_at(grid[i][j]);
@@ -67,8 +63,8 @@ public:
         Path left = bestPathLowerThan(grid, i, j - 1, k - currentGridCost);
         Path top = bestPathLowerThan(grid, i - 1, j, k - currentGridCost);
 
-        cout << "left best at (" << i << "," << j << ")" << " with threshold of " << k << " is cost=" << left.cost << ", score=" << left.score << endl;
-        cout << "top best at (" << i << "," << j << ")" << " with threshold of " << k << " is cost=" << top.cost << ", score=" << top.score << endl;
+        // cout << "left best at (" << i << "," << j << ")" << " with threshold of " << k << " is cost=" << left.cost << ", score=" << left.score << endl;
+        // cout << "top best at (" << i << "," << j << ")" << " with threshold of " << k << " is cost=" << top.cost << ", score=" << top.score << endl;
 
         Path result;
 
@@ -98,9 +94,11 @@ public:
     int maxPathScore(vector<vector<int>>& grid, int k) {        
         int n = grid.size();
         int m = grid[0].size();
-        this->_cache = vector<vector<map<int, Path>>>(n, vector<map<int, Path>>(m, map<int, Path>()));
+        this->_cache = vector<vector<vector<Path>>>(n, vector<vector<Path>>(m, vector<Path>(1001)));
         return bestPathLowerThan(grid, n - 1, m - 1, k).score;
     }
 };
 
-int main() {}
+int main() {
+
+}
